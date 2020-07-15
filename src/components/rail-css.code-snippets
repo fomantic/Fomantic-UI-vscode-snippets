@@ -1,0 +1,47 @@
+{
+    "Fomantic-UI Default Rail": {
+        "prefix": "ui-rail",
+        "description": "A rail can be presented on the left or right side of a container",
+        "body": [
+            "<div class=\"ui ${1:left} rail\">",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Internal Rail": {
+        "prefix": "ui-rail-internal",
+        "description": "A rail can attach itself to the inside of a container",
+        "body": [
+            "<div class=\"ui internal rail\">",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Dividing Rail": {
+        "prefix": "ui-rail-dividing",
+        "description": "A rail can create a division between itself and a container",
+        "body": [
+            "<div class=\"ui ${1:left} dividing rail\">",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Attached Rail": {
+        "prefix": "ui-rail-dividing",
+        "description": "A rail can appear attached to the main viewport",
+        "body": [
+            "<div class=\"ui ${1:left} attached rail\">",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Close Rail": {
+        "prefix": "ui-rail-close",
+        "description": "A rail can appear closer to the main viewport",
+        "body": [
+            "<div class=\"ui ${1:left} close rail\">",
+            "   $0",
+            "</div>"
+        ]
+    }
+}

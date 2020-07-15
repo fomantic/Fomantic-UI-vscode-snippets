@@ -111,6 +111,12 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | **Placeholder** | |
 | `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
 | `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
+| **Rail** | |
+| `ui-rail` | A rail can be presented on the left or right side of a container |
+| `ui-rail-internal` | A rail can attach itself to the inside of a container |
+| `ui-rail-dividing` | A rail can create a division between itself and a container |
+| `ui-rail-dividing` | A rail can appear attached to the main viewport |
+| `ui-rail-close` | A rail can appear closer to the main viewport |
 
 ### JS 
 | **Prefix** | **Description** |
