@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Container": {
+        "prefix": "ui-container",
+        "description": "Creates a container",
+        "body": [
+            "<div class=\"ui container\">$0</div>"
+        ]
+    }
+}

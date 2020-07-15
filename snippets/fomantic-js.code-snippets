@@ -1,0 +1,9 @@
+{
+  "Fomantic-UI Default Dropdown JS": {
+    "prefix": "ui-dropdown",
+    "description": "Initializes dropdown with jQuery",
+    "body": [
+      "$('.ui.dropdown').dropdown($1);"
+    ]
+  }
+}

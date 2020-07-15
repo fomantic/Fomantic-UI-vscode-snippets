@@ -1,0 +1,51 @@
+{
+    "Fomantic-UI Default Image CSS": {
+        "prefix": "ui-image",
+        "description": "An image",
+        "body": [
+            "<img class=\"ui image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    },
+    "Fomantic-UI Disabled Image CSS": {
+        "prefix": "ui-image-disabled",
+        "description": "An image can show that it is disabled and cannot be selected",
+        "body": [
+            "<img class=\"disabled ui image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    },
+    "Fomantic-UI Avatar Image CSS": {
+        "prefix": "ui-image-avatar",
+        "description": "An image may be formatted to appear inline with text as an avatar",
+        "body": [
+            "<img class=\"ui avatar image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    },
+    "Fomantic-UI Bordered Image CSS": {
+        "prefix": "ui-image-bordered",
+        "description": "An image may include a border to emphasize the edges of white or transparent content",
+        "body": [
+            "<img class=\"ui bordered image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    },
+    "Fomantic-UI Fluid Image CSS": {
+        "prefix": "ui-image-fluid",
+        "description": "An image can take up the width of its container",
+        "body": [
+            "<img class=\"ui fluid image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    },
+    "Fomantic-UI Rounded Image CSS": {
+        "prefix": "ui-image-rounded",
+        "description": "An image may appear rounded",
+        "body": [
+            "<img class=\"ui rounded image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    },
+    "Fomantic-UI Circular Image CSS": {
+        "prefix": "ui-image-circular",
+        "description": "An image may appear circular",
+        "body": [
+            "<img class=\"ui circular image\" src=\"${1:/images/image.png}\">$0"
+        ]
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "Fomantic-UI Default Button CSS": {
+        "prefix": "ui-button",
+        "description": "Creates a default button",
+        "body": [
+            "<button class=\"ui button\">",
+            "    ${0:Follow}",
+            "</button>"
+        ]
+    },
+    "Fomantic-UI Animated Button CSS": {
+        "prefix": "ui-button-animated",
+        "description": "A button can animate to show hidden content",
+        "body": [
+            "<div class=\"ui animated button\" tabindex=\"0\">",
+            "    <div class=\"visible content\">${1:Next}</div>",
+            "    <div class=\"hidden content\">",
+            "        ${0:<i class=\"right arrow icon\"></i>}",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Labeled Button CSS": {
+        "prefix": "ui-button-labeled",
+        "description": "A button can appear alongside a label",
+        "body": [
+            "<div class=\"ui labeled button\" tabindex=\"0\">",
+            "    <div class=\"ui button\">",
+            "        ${1:<i class=\"heart icon\"></i> Like}",
+            "    </div>",
+            "    <a class=\"ui basic label\">",
+            "        ${0:2,048}",
+            "    </a>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Labeled Icon Button CSS": {
+        "prefix": "ui-button-labeled-icon",
+        "description": "A button can use an icon as a label",
+        "body": [
+            "<button class=\"ui labeled icon button\">",
+            "    <i class=\"${0:pause} icon\"></i>",
+            "    ${1:Follow}",
+            "</button>"
+        ]
+    },
+    "Fomantic-UI Icon Button CSS": {
+        "prefix": "ui-button-icon",
+        "description": "A button can have only an icon",
+        "body": [
+            "<button class=\"ui icon button\">",
+            "    <i class=\"${0:cloud} icon\"></i>",
+            "</button>"
+        ]
+    },
+    "Fomantic-UI Basic Button CSS": {
+        "prefix": "ui-button-basic",
+        "description": "A basic button is less pronounced",
+        "body": [
+            "<button class=\"ui basic button\">",
+            "    ${0:Follow}",
+            "</button>"
+        ]
+    },
+    "Fomantic-UI Tertiary Button CSS": {
+        "prefix": "ui-button-tertiary",
+        "description": "An none bordered less important button",
+        "body": [
+            "<button class=\"ui tertiary button\">",
+            "    ${0:Follow}",
+            "</button>"
+        ]
+    },
+    "Fomantic-UI Default Buttons CSS": {
+        "prefix": "ui-buttons",
+        "description": "Buttons can exist together as a group",
+        "body": [
+            "<div class=\"ui buttons\">",
+            "    <button class=\"ui button\">${1:One}</button>",
+            "    <button class=\"ui button\">${0:Two}</button>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Icon Buttons CSS": {
+        "prefix": "ui-buttons-icon",
+        "description": "Button groups can show groups of icons",
+        "body": [
+            "<div class=\"ui icon buttons\">",
+            "    <button class=\"ui button\"><i class=\"${1:align left} icon\"></i></button>",
+            "    <button class=\"ui button\"><i class=\"${0:align right} icon\"></i></button>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Conditionals Buttons CSS": {
+        "prefix": "ui-buttons-conditionals",
+        "description": "Button groups can contain conditionals",
+        "body": [
+            "<div class=\"ui buttons\">",
+            "    <button class=\"ui button\">${1:Cancel}</button>",
+            "    <div class=\"or\"></div>",
+            "    <button class=\"ui button\">${0:Save}</button>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Disabled Button CSS": {
+        "prefix": "ui-button-disabled",
+        "description": "A button can show it is currently unable to be interacted with",
+        "body": [
+            "<div class=\"ui disabled button\">",
+            "    ${0:Followed}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Loading Button CSS": {
+        "prefix": "ui-button-loading",
+        "description": "A button can show a loading indicator",
+        "body": [
+            "<div class=\"ui loading button\">",
+            "    ${0:Loading}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Social Button CSS": {
+        "prefix": "ui-button-social",
+        "description": "A button can be formatted to link to a social website",
+        "body": [
+            "<div class=\"ui ${1:telegram} button\">",
+            "    <i class=\"${1:telegram} icon\"></i>",
+            "    ${0:Telegram}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Compact Button CSS": {
+        "prefix": "ui-button-compact",
+        "description": "A button can reduce its padding to fit into tighter spaces",
+        "body": [
+            "<div class=\"compact ui button\">",
+            "    ${0:Hold}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Fluid Button CSS": {
+        "prefix": "ui-button-fluid",
+        "description": "A button can take the width of its container",
+        "body": [
+            "<div class=\"fluid ui button\">",
+            "    ${0:Hold}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Circular Button CSS": {
+        "prefix": "ui-button-circular",
+        "description": "A button can be circular",
+        "body": [
+            "<div class=\"circular ui ${1:icon} button\">",
+            "    ${0:<i class=\"icon settings\"></i>}",
+            "</div>"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Fomantic-UI Default Icon CSS": {
+        "prefix": "ui-icon",
+        "description": "An icon set contains an arbitrary number of glyphs",
+        "body": [
+            "<i class=\"${1:accessible} icon\"></i>$0"
+        ]
+    },
+    "Fomantic-UI Disabled Icon CSS": {
+        "prefix": "ui-icon-disabled",
+        "description": "An icon can show that it is disabled",
+        "body": [
+            "<i class=\"disabled ${1:accessible} icon\"></i>$0"
+        ]
+    },
+    "Fomantic-UI Loading Icon CSS": {
+        "prefix": "ui-icon-loading",
+        "description": "An icon can be used as a simple loader",
+        "body": [
+            "<i class=\"${1:accessible} loading icon\"></i>$0"
+        ]
+    },
+    "Fomantic-UI Fitted Icon CSS": {
+        "prefix": "ui-icon-fitted",
+        "description": "An icon can be fitted, without any space to the left or right of it.",
+        "body": [
+            "<i class=\"fitted ${1:accessible} icon\"></i>$0"
+        ]
+    },
+    "Fomantic-UI Group Icon CSS": {
+        "prefix": "ui-icon-group",
+        "description": "Several icons can be used together as a group",
+        "body": [
+            "<i class=\"icons\">",
+            "   <i class=\"${1:big circle outline} icon\"></i>",
+            "   <i class=\"${2:user} icon\"></i>",
+            "</i>$0"
+        ]
+    }
+}

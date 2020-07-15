@@ -1,0 +1,31 @@
+{
+    "name": "fomantic-ui-snippets",
+    "displayName": "Fomantic-UI Snippets",
+    "description": "Fomantic-UI Snippets for VS Code",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node ."
+    },
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/fomantic-css.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/fomantic-js.code-snippets"
+            }
+        ]
+    }
+}

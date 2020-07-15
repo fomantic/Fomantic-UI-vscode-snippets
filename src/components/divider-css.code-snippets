@@ -1,0 +1,50 @@
+{
+    "Fomantic-UI Default Divider": {
+        "prefix": "ui-divider",
+        "description": "Creates a divider",
+        "body": [
+            "<div class=\"ui divider\"></div>",
+            "$0"
+        ]
+    },
+    "Fomantic-UI Vertical Divider": {
+        "prefix": "ui-divider-vertical",
+        "description": "Creates a vertical divider",
+        "body": [
+            "<div class=\"ui vertical divider\"></div>",
+            "$0"
+        ]
+    },
+    "Fomantic-UI Fitted Divider": {
+        "prefix": "ui-divider-fitted",
+        "description": "A divider can be fitted, without any space above or below it.",
+        "body": [
+            "<div class=\"ui fitted divider\"></div>",
+            "$0"
+        ]
+    },
+    "Fomantic-UI Hidden Divider": {
+        "prefix": "ui-divider-hidden",
+        "description": "A hidden divider divides content without creating a dividing line",
+        "body": [
+            "<div class=\"ui hidden divider\"></div>",
+            "$0"
+        ]
+    },
+    "Fomantic-UI Section Divider": {
+        "prefix": "ui-divider-section",
+        "description": "A divider can provide greater margins to divide sections of content",
+        "body": [
+            "<div class=\"ui section divider\"></div>",
+            "$0"
+        ]
+    },
+    "Fomantic-UI Clearing Divider": {
+        "prefix": "ui-divider-clearing",
+        "description": "A divider can clear the contents above it",
+        "body": [
+            "<div class=\"ui clearing divider\"></div>",
+            "$0"
+        ]
+    }
+}

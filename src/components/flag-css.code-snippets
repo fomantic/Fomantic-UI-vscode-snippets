@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Flag CSS": {
+        "prefix": "ui-emoji",
+        "description": "A flag can use the two digit country code, the full name, or a common alias",
+        "body": [
+            "<i class=\"${0:ae} flag\"></i>$0"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Emoji CSS": {
+        "prefix": "ui-emoji",
+        "description": "You can provide the emoji shortname with or without colons",
+        "body": [
+            "<em data-emoji=\":${1:cupid}:\"></em>$0"
+        ]
+    }
+}

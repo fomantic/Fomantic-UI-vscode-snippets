@@ -1,0 +1,392 @@
+{
+  "Fomantic-UI Default Button CSS": {
+    "prefix": "ui-button",
+    "description": "Creates a default button",
+    "body": [
+      "<button class=\"ui button\">",
+      "    ${0:Follow}",
+      "</button>"
+    ]
+  },
+  "Fomantic-UI Animated Button CSS": {
+    "prefix": "ui-button-animated",
+    "description": "A button can animate to show hidden content",
+    "body": [
+      "<div class=\"ui animated button\" tabindex=\"0\">",
+      "    <div class=\"visible content\">${1:Next}</div>",
+      "    <div class=\"hidden content\">",
+      "        ${0:<i class=\"right arrow icon\"></i>}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Labeled Button CSS": {
+    "prefix": "ui-button-labeled",
+    "description": "A button can appear alongside a label",
+    "body": [
+      "<div class=\"ui labeled button\" tabindex=\"0\">",
+      "    <div class=\"ui button\">",
+      "        ${1:<i class=\"heart icon\"></i> Like}",
+      "    </div>",
+      "    <a class=\"ui basic label\">",
+      "        ${0:2,048}",
+      "    </a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Labeled Icon Button CSS": {
+    "prefix": "ui-button-labeled-icon",
+    "description": "A button can use an icon as a label",
+    "body": [
+      "<button class=\"ui labeled icon button\">",
+      "    <i class=\"${0:pause} icon\"></i>",
+      "    ${1:Follow}",
+      "</button>"
+    ]
+  },
+  "Fomantic-UI Icon Button CSS": {
+    "prefix": "ui-button-icon",
+    "description": "A button can have only an icon",
+    "body": [
+      "<button class=\"ui icon button\">",
+      "    <i class=\"${0:cloud} icon\"></i>",
+      "</button>"
+    ]
+  },
+  "Fomantic-UI Basic Button CSS": {
+    "prefix": "ui-button-basic",
+    "description": "A basic button is less pronounced",
+    "body": [
+      "<button class=\"ui basic button\">",
+      "    ${0:Follow}",
+      "</button>"
+    ]
+  },
+  "Fomantic-UI Tertiary Button CSS": {
+    "prefix": "ui-button-tertiary",
+    "description": "An none bordered less important button",
+    "body": [
+      "<button class=\"ui tertiary button\">",
+      "    ${0:Follow}",
+      "</button>"
+    ]
+  },
+  "Fomantic-UI Default Buttons CSS": {
+    "prefix": "ui-buttons",
+    "description": "Buttons can exist together as a group",
+    "body": [
+      "<div class=\"ui buttons\">",
+      "    <button class=\"ui button\">${1:One}</button>",
+      "    <button class=\"ui button\">${0:Two}</button>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Icon Buttons CSS": {
+    "prefix": "ui-buttons-icon",
+    "description": "Button groups can show groups of icons",
+    "body": [
+      "<div class=\"ui icon buttons\">",
+      "    <button class=\"ui button\"><i class=\"${1:align left} icon\"></i></button>",
+      "    <button class=\"ui button\"><i class=\"${0:align right} icon\"></i></button>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Conditionals Buttons CSS": {
+    "prefix": "ui-buttons-conditionals",
+    "description": "Button groups can contain conditionals",
+    "body": [
+      "<div class=\"ui buttons\">",
+      "    <button class=\"ui button\">${1:Cancel}</button>",
+      "    <div class=\"or\"></div>",
+      "    <button class=\"ui button\">${0:Save}</button>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Button CSS": {
+    "prefix": "ui-button-disabled",
+    "description": "A button can show it is currently unable to be interacted with",
+    "body": [
+      "<div class=\"ui disabled button\">",
+      "    ${0:Followed}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Loading Button CSS": {
+    "prefix": "ui-button-loading",
+    "description": "A button can show a loading indicator",
+    "body": [
+      "<div class=\"ui loading button\">",
+      "    ${0:Loading}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Social Button CSS": {
+    "prefix": "ui-button-social",
+    "description": "A button can be formatted to link to a social website",
+    "body": [
+      "<div class=\"ui ${1:telegram} button\">",
+      "    <i class=\"${1:telegram} icon\"></i>",
+      "    ${0:Telegram}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Compact Button CSS": {
+    "prefix": "ui-button-compact",
+    "description": "A button can reduce its padding to fit into tighter spaces",
+    "body": [
+      "<div class=\"compact ui button\">",
+      "    ${0:Hold}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Button CSS": {
+    "prefix": "ui-button-fluid",
+    "description": "A button can take the width of its container",
+    "body": [
+      "<div class=\"fluid ui button\">",
+      "    ${0:Hold}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Circular Button CSS": {
+    "prefix": "ui-button-circular",
+    "description": "A button can be circular",
+    "body": [
+      "<div class=\"circular ui ${1:icon} button\">",
+      "    ${0:<i class=\"icon settings\"></i>}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Default Container": {
+    "prefix": "ui-container",
+    "description": "Creates a container",
+    "body": [
+      "<div class=\"ui container\">$0</div>"
+    ]
+  },
+  "Fomantic-UI Default Divider": {
+    "prefix": "ui-divider",
+    "description": "Creates a divider",
+    "body": [
+      "<div class=\"ui divider\"></div>",
+      "$0"
+    ]
+  },
+  "Fomantic-UI Vertical Divider": {
+    "prefix": "ui-divider-vertical",
+    "description": "Creates a vertical divider",
+    "body": [
+      "<div class=\"ui vertical divider\"></div>",
+      "$0"
+    ]
+  },
+  "Fomantic-UI Fitted Divider": {
+    "prefix": "ui-divider-fitted",
+    "description": "A divider can be fitted, without any space above or below it.",
+    "body": [
+      "<div class=\"ui fitted divider\"></div>",
+      "$0"
+    ]
+  },
+  "Fomantic-UI Hidden Divider": {
+    "prefix": "ui-divider-hidden",
+    "description": "A hidden divider divides content without creating a dividing line",
+    "body": [
+      "<div class=\"ui hidden divider\"></div>",
+      "$0"
+    ]
+  },
+  "Fomantic-UI Section Divider": {
+    "prefix": "ui-divider-section",
+    "description": "A divider can provide greater margins to divide sections of content",
+    "body": [
+      "<div class=\"ui section divider\"></div>",
+      "$0"
+    ]
+  },
+  "Fomantic-UI Clearing Divider": {
+    "prefix": "ui-divider-clearing",
+    "description": "A divider can clear the contents above it",
+    "body": [
+      "<div class=\"ui clearing divider\"></div>",
+      "$0"
+    ]
+  },
+  "Fomantic-UI Default Dropdown CSS": {
+    "prefix": "ui-dropdown",
+    "description": "Creates a default dropdown",
+    "body": [
+      "<div class=\"ui dropdown\">",
+      "   <div class=\"text\">${0:File}</div>",
+      "   <i class=\"dropdown icon\"></i>",
+      "   <div class=\"menu\">",
+      "      <div class=\"item\">New</div>",
+      "      <div class=\"item\">",
+      "         <span class=\"description\">ctrl + o</span>",
+      "         Open...",
+      "      </div>",
+      "      <div class=\"item\">",
+      "         <span class=\"description\">ctrl + s</span>",
+      "         Save as...",
+      "      </div>",
+      "   </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Default Emoji CSS": {
+    "prefix": "ui-emoji",
+    "description": "You can provide the emoji shortname with or without colons",
+    "body": [
+      "<em data-emoji=\":${1:cupid}:\"></em>$0"
+    ]
+  },
+  "Fomantic-UI Default Flag CSS": {
+    "prefix": "ui-emoji",
+    "description": "A flag can use the two digit country code, the full name, or a common alias",
+    "body": [
+      "<i class=\"${0:ae} flag\"></i>$0"
+    ]
+  },
+  "Fomantic-UI Default Header CSS": {
+    "prefix": "ui-header",
+    "description": "Headers may be oriented to give the hierarchy of a section in the context of the page",
+    "body": [
+      "<h${1:1} class=\"ui header\">${0:First header}</h${1:1}>"
+    ]
+  },
+  "Fomantic-UI Icon Header CSS": {
+    "prefix": "ui-header-icon",
+    "description": "A header can be formatted to emphasize an icon",
+    "body": [
+      "<h${1:1} class=\"ui icon header\">",
+      "   <i class=\"${2:settings} icon\"></i>",
+      "   <div class=\"content\">",
+      "       ${0:Account Settings}",
+      "   </div>",
+      "</h${1:1}>"
+    ]
+  },
+  "Fomantic-UI Sub Header CSS": {
+    "prefix": "ui-header-sub",
+    "description": "Headers may be formatted to label smaller or de-emphasized content.",
+    "body": [
+      "<h${1:1} class=\"ui sub header\">",
+      "   ${0:Price}",
+      "</h${1:1}>"
+    ]
+  },
+  "Fomantic-UI Disabled Header CSS": {
+    "prefix": "ui-header-disabled",
+    "description": "A header can show that it is inactive",
+    "body": [
+      "<h${1:1} class=\"ui disabled header\">",
+      "   ${0:Disabled Header}",
+      "</h${1:1}>"
+    ]
+  },
+  "Fomantic-UI Dividing Header CSS": {
+    "prefix": "ui-header-dividing",
+    "description": "A header can be formatted to divide itself from the content below it",
+    "body": [
+      "<h${1:1} class=\"ui dividing header\">",
+      "   ${0:Dividing Header}",
+      "</h${1:1}>"
+    ]
+  },
+  "Fomantic-UI Block Header CSS": {
+    "prefix": "ui-header-block",
+    "description": "A header can be formatted to appear inside a content block",
+    "body": [
+      "<h${1:1} class=\"ui block header\">",
+      "   ${0:Block Header}",
+      "</h${1:1}>"
+    ]
+  },
+  "Fomantic-UI Default Icon CSS": {
+    "prefix": "ui-icon",
+    "description": "An icon set contains an arbitrary number of glyphs",
+    "body": [
+      "<i class=\"${1:accessible} icon\"></i>$0"
+    ]
+  },
+  "Fomantic-UI Disabled Icon CSS": {
+    "prefix": "ui-icon-disabled",
+    "description": "An icon can show that it is disabled",
+    "body": [
+      "<i class=\"disabled ${1:accessible} icon\"></i>$0"
+    ]
+  },
+  "Fomantic-UI Loading Icon CSS": {
+    "prefix": "ui-icon-loading",
+    "description": "An icon can be used as a simple loader",
+    "body": [
+      "<i class=\"${1:accessible} loading icon\"></i>$0"
+    ]
+  },
+  "Fomantic-UI Fitted Icon CSS": {
+    "prefix": "ui-icon-fitted",
+    "description": "An icon can be fitted, without any space to the left or right of it.",
+    "body": [
+      "<i class=\"fitted ${1:accessible} icon\"></i>$0"
+    ]
+  },
+  "Fomantic-UI Group Icon CSS": {
+    "prefix": "ui-icon-group",
+    "description": "Several icons can be used together as a group",
+    "body": [
+      "<i class=\"icons\">",
+      "   <i class=\"${1:big circle outline} icon\"></i>",
+      "   <i class=\"${2:user} icon\"></i>",
+      "</i>$0"
+    ]
+  },
+  "Fomantic-UI Default Image CSS": {
+    "prefix": "ui-image",
+    "description": "An image",
+    "body": [
+      "<img class=\"ui image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  },
+  "Fomantic-UI Disabled Image CSS": {
+    "prefix": "ui-image-disabled",
+    "description": "An image can show that it is disabled and cannot be selected",
+    "body": [
+      "<img class=\"disabled ui image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  },
+  "Fomantic-UI Avatar Image CSS": {
+    "prefix": "ui-image-avatar",
+    "description": "An image may be formatted to appear inline with text as an avatar",
+    "body": [
+      "<img class=\"ui avatar image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  },
+  "Fomantic-UI Bordered Image CSS": {
+    "prefix": "ui-image-bordered",
+    "description": "An image may include a border to emphasize the edges of white or transparent content",
+    "body": [
+      "<img class=\"ui bordered image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  },
+  "Fomantic-UI Fluid Image CSS": {
+    "prefix": "ui-image-fluid",
+    "description": "An image can take up the width of its container",
+    "body": [
+      "<img class=\"ui fluid image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  },
+  "Fomantic-UI Rounded Image CSS": {
+    "prefix": "ui-image-rounded",
+    "description": "An image may appear rounded",
+    "body": [
+      "<img class=\"ui rounded image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  },
+  "Fomantic-UI Circular Image CSS": {
+    "prefix": "ui-image-circular",
+    "description": "An image may appear circular",
+    "body": [
+      "<img class=\"ui circular image\" src=\"${1:/images/image.png}\">$0"
+    ]
+  }
+}
