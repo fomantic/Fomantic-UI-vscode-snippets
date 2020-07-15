@@ -801,5 +801,71 @@
       "   $0",
       "</div>"
     ]
+  },
+  "Fomantic-UI Fade Reveal": {
+    "prefix": "ui-reveal-fade",
+    "description": "An element can disappear to reveal content below",
+    "body": [
+      "<div class=\"ui fade reveal\">",
+      "    <div class=\"visible content\">",
+      "        ${1:<img src=\"${2:/images/wireframe/square-image.png}\" class=\"ui image\">}",
+      "    </div>",
+      "    <div class=\"hidden content\">",
+      "        ${3:<img src=\"${4:/images/avatar/large/ade.jpg}\" class=\"ui image\">}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Move Reveal": {
+    "prefix": "ui-reveal-move",
+    "description": "An element can move in a direction to reveal content",
+    "body": [
+      "<div class=\"ui move reveal\">",
+      "    <div class=\"visible content\">",
+      "        ${1:<img src=\"${2:/images/wireframe/square-image.png}\" class=\"ui image\">}",
+      "    </div>",
+      "    <div class=\"hidden content\">",
+      "        ${3:<img src=\"${4:/images/avatar/large/ade.jpg}\" class=\"ui image\">}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Rotate Reveal": {
+    "prefix": "ui-reveal-rotate",
+    "description": "An element can rotate to reveal content below",
+    "body": [
+      "<div class=\"ui small circular rotate reveal image\">",
+      "    <img src=\"${1:/images/wireframe/square-image.png}\" class=\"visible content\">",
+      "    <img src=\"${2:/images/avatar/large/stevie.jpg}\" class=\"hidden content\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Instant Reveal": {
+    "prefix": "ui-reveal-instant",
+    "description": "An element can show its content without delay",
+    "body": [
+      "<div class=\"ui instant {1:move} reveal\">",
+      "    <div class=\"visible content\">",
+      "        ${2:<img src=\"${3:/images/wireframe/square-image.png}\" class=\"ui image\">}",
+      "    </div>",
+      "    <div class=\"hidden content\">",
+      "        ${4:<img src=\"${5:/images/avatar/large/ade.jpg}\" class=\"ui image\">}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Reveal": {
+    "prefix": "ui-reveal-disabled",
+    "description": "A disabled reveal will not animate when hovered",
+    "body": [
+      "<div class=\"ui disabled {1:move} reveal\">",
+      "    <div class=\"visible content\">",
+      "        ${2:<img src=\"${3:/images/wireframe/square-image.png}\" class=\"ui image\">}",
+      "    </div>",
+      "    <div class=\"hidden content\">",
+      "        ${4:<img src=\"${5:/images/avatar/large/ade.jpg}\" class=\"ui image\">}",
+      "    </div>",
+      "</div>"
+    ]
   }
 }

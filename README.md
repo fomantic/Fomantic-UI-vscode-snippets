@@ -117,6 +117,12 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-rail-dividing` | A rail can create a division between itself and a container |
 | `ui-rail-dividing` | A rail can appear attached to the main viewport |
 | `ui-rail-close` | A rail can appear closer to the main viewport |
+| **Reveal** | |
+| `ui-reveal-fade` | An element can disappear to reveal content below |
+| `ui-reveal-move` | An element can move in a direction to reveal content |
+| `ui-reveal-rotate` | An element can rotate to reveal content below |
+| `ui-reveal-instant` | An element can show its content without delay |
+| `ui-reveal-disabled` | A disabled reveal will not animate when hovered |
 
 ### JS 
 | **Prefix** | **Description** |
