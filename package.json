@@ -9,7 +9,7 @@
     "icon": "icon.png",
     "publisher": "TheJltres",
     "repository": {
-        "url": "https://github.com/TheJltres/fomantic-ui-vscode-snippets"
+        "url": "https://github.com/fomantic/Fomantic-UI-vscode-snippets/"
     },
     "version": "0.0.1",
     "scripts": {
