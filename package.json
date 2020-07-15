@@ -7,6 +7,9 @@
         "url": "https://github.com/TheJltres"
     },
     "publisher": "TheJltres",
+    "repository": {
+        "url": "https://github.com/TheJltres/fomantic-ui-vscode-snippets"
+    },
     "version": "0.0.1",
     "scripts": {
         "start": "node ."
