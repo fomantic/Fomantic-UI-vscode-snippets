@@ -1,0 +1,134 @@
+{
+    "Fomantic-UI Default Step": {
+        "prefix": "ui-step",
+        "description": "A single step",
+        "body": [
+            "    <div class=\"step\">",
+            "        ${1:Shipping}",
+            "    </div>"
+        ]
+    },
+    "Fomantic-UI Completed Step": {
+        "prefix": "ui-step-completed",
+        "description": "A completed step",
+        "body": [
+            "    <div class=\"completed step\">",
+            "        ${1:Shipping}",
+            "    </div>"
+        ]
+    },
+    "Fomantic-UI Active Step": {
+        "prefix": "ui-step-active",
+        "description": "A active step",
+        "body": [
+            "    <div class=\"active step\">",
+            "        ${1:Shipping}",
+            "    </div>"
+        ]
+    },
+    "Fomantic-UI Icon Step": {
+        "prefix": "ui-step-icon",
+        "description": "A icon step",
+        "body": [
+            "    <div class=\"active step\">",
+            "        <i class=\"${1:truck} icon\"></i>",
+            "        <div class=\"content\">",
+            "            ${2:Some text}",
+            "        </div>",
+            "    </div>"
+        ]
+    },
+    "Fomantic-UI Disabled Step": {
+        "prefix": "ui-step-disabled",
+        "description": "A disabled step",
+        "body": [
+            "    <div class=\"disabled step\">",
+            "        ${1:Shipping}",
+            "    </div>"
+        ]
+    },
+    "Fomantic-UI Default Steps": {
+        "prefix": "ui-steps",
+        "description": "A set of steps",
+        "body": [
+            "<div class=\"ui steps\">",
+            "    <div class=\"step\">",
+            "       <div class=\"content\">",
+            "           ${1:Some text}",
+            "       </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Vertical Steps": {
+        "prefix": "ui-steps-vertical",
+        "description": "A set of vertical steps",
+        "body": [
+            "<div class=\"ui vertical steps\">",
+            "    <div class=\"step\">",
+            "       <div class=\"content\">",
+            "           ${1:Some text}",
+            "       </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Stackable Steps": {
+        "prefix": "ui-steps-stackable",
+        "description": "A step can stack vertically only on smaller screens",
+        "body": [
+            "<div class=\"ui ${1:tablet} stackable steps\">",
+            "    <div class=\"step\">",
+            "       <div class=\"content\">",
+            "           ${2:Some text}",
+            "       </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Unstackable Steps": {
+        "prefix": "ui-steps-unstackable",
+        "description": "A step can prevent itself from stacking on mobile",
+        "body": [
+            "<div class=\"ui unstackable steps\">",
+            "    <div class=\"step\">",
+            "       <div class=\"content\">",
+            "           ${1:Some text}",
+            "       </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Fluid Steps": {
+        "prefix": "ui-steps-fluid",
+        "description": "A fluid step takes up the width of its container",
+        "body": [
+            "<div class=\"ui fluid steps\">",
+            "    <div class=\"step\">",
+            "       <div class=\"content\">",
+            "           ${1:Some text}",
+            "       </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Attached Steps": {
+        "prefix": "ui-steps-attached",
+        "description": "Steps can be attached to other elements",
+        "body": [
+            "<div class=\"ui ${1:top} attached steps\">",
+            "    <div class=\"step\">",
+            "       <div class=\"content\">",
+            "           ${2:Some text}",
+            "       </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    }
+}

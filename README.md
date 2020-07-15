@@ -141,6 +141,19 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-segments` | A group of segments can be formatted to appear together |
 | `ui-segments-horizontal` | A segment group can appear horizontally |
 | `ui-segments-compact` | A segment group can appear horizontally |
+| **Step** | |
+| `ui-step` | A single step |
+| `ui-step-completed` | A completed step |
+| `ui-step-active` | A active step |
+| `ui-step-icon` | A icon step |
+| `ui-step-disabled` | A disabled step |
+| **Steps** | |
+| `ui-steps` | A set of steps |
+| `ui-steps-vertical` | A set of vertical steps |
+| `ui-steps-stackable` | A step can stack vertically only on smaller screens |
+| `ui-steps-unstackable` | A step can prevent itself from stacking on mobile |
+| `ui-steps-fluid` | A fluid step takes up the width of its container |
+| `ui-steps-attached` | Steps can be attached to other elements |
 
 ### JS 
 | **Prefix** | **Description** |
