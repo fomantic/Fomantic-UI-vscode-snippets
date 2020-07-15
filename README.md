@@ -6,7 +6,7 @@ This extension provides code snippets for Fomantic-UI components
 
 For example if there is an image subfolder under your extension project workspace:
 
-![demo](./images/demo.gif)
+![demo](https://github.com/TheJltres/fomantic-ui-vscode-snippets/blob/master/images/demo.gif?raw=true)
 
 ## Shortcut dictionary
 
