@@ -154,6 +154,7 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-steps-unstackable` | A step can prevent itself from stacking on mobile |
 | `ui-steps-fluid` | A fluid step takes up the width of its container |
 | `ui-steps-attached` | Steps can be attached to other elements |
+| `ui-text` | A text is always used inline and uses one color from the FUI color palette |
 
 ### JS 
 | **Prefix** | **Description** |

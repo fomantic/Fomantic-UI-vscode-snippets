@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Text": {
+        "prefix": "ui-text",
+        "description": "A text is always used inline and uses one color from the FUI color palette",
+        "body": [
+            "<span class=\"ui ${1:medium} ${2:red} text\">${3:Some Text}</span>$0"
+        ]
+    }
+}
