@@ -1,65 +1,76 @@
-# fomantic-ui-snippets README
+# Fomantic-UI snippets for Visual Studio Code
 
-This is the README for your extension "fomantic-ui-snippets". After writing up a brief description, we recommend including the following sections.
+## Introduction
 
-## Features
-
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+This extension provides code snippets for Fomantic-UI components
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+![demo](./images/demo.gif)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Shortcut dictionary
 
-## Requirements
+### CSS 
+| **Prefix** | **Description** |
+|---|---|
+| **Button** | |
+| `ui-button` | Creates a default button |
+| `ui-button-animated` | A button can animate to show hidden content |
+| `ui-button-labeled` | A button can appear alongside a label |
+| `ui-button-labeled-icon` | A button can use an icon as a label |
+| `ui-button-icon` | A button can have only an icon |
+| `ui-button-basic` | A basic button is less pronounced |
+| `ui-button-tertiary` | An none bordered less important button |
+| `ui-button-disabled` | A button can show it is currently unable to be interacted with |
+| `ui-button-loading` | A button can show a loading indicator |
+| `ui-button-social` | A button can be formatted to link to a social website |
+| `ui-button-compact` | A button can reduce its padding to fit into tighter spaces |
+| `ui-button-fluid` | A button can take the width of its container |
+| `ui-button-circular` | A button can be circular |
+| **Buttons** | |
+| `ui-buttons` | Buttons can exist together as a group |
+| `ui-buttons-icon` | Button groups can show groups of icons |
+| `ui-buttons-conditionals` | Button groups can contain conditionals |
+| **Container** | |
+| `ui-container` | Creates a container |
+| **Divider** | |
+| `ui-divider` | Creates a divider |
+| `ui-divider-vertical` | Creates a vertical divider |
+| `ui-divider-fitted` | A divider can be fitted, without any space above or below it. |
+| `ui-divider-hidden` | A hidden divider divides content without creating a dividing line |
+| `ui-divider-section` | A divider can provide greater margins to divide sections of content |
+| `ui-divider-clearing` | A divider can clear the contents above it |
+| **Dropdown** | |
+| `ui-dropdown` | Creates a default dropdown |
+| **Emoji** | |
+| `ui-emoji` | You can provide the emoji shortname with or without colons |
+| `ui-emoji` | A flag can use the two digit country code, the full name, or a common alias |
+| **Header** | |
+| `ui-header` | Headers may be oriented to give the hierarchy of a section in the context of the page |
+| `ui-header-icon` | A header can be formatted to emphasize an icon |
+| `ui-header-sub` | Headers may be formatted to label smaller or de-emphasized content. |
+| `ui-header-disabled` | A header can show that it is inactive |
+| `ui-header-dividing` | A header can be formatted to divide itself from the content below it |
+| `ui-header-block` | A header can be formatted to appear inside a content block |
+| **Icon** | |
+| `ui-icon` | An icon set contains an arbitrary number of glyphs |
+| `ui-icon-disabled` | An icon can show that it is disabled |
+| `ui-icon-loading` | An icon can be used as a simple loader |
+| `ui-icon-fitted` | An icon can be fitted, without any space to the left or right of it. |
+| `ui-icon-group` | Several icons can be used together as a group |
+| **Image** | |
+| `ui-image` | An image |
+| `ui-image-disabled` | An image can show that it is disabled and cannot be selected |
+| `ui-image-avatar` | An image may be formatted to appear inline with text as an avatar |
+| `ui-image-bordered` | An image may include a border to emphasize the edges of white or transparent content |
+| `ui-image-fluid` | An image can take up the width of its container |
+| `ui-image-rounded` | An image may appear rounded |
+| `ui-image-circular` | An image may appear circular |
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### JS 
+| **Prefix** | **Description** |
+|---|---|
+| **Dropdown** | |
+| `ui-dropdown` | Initializes dropdown with jQuery |
 
 **Enjoy!**
