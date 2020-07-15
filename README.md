@@ -90,6 +90,17 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-label-detail` | A label can float above or below another element. |
 | `ui-label-circular` | A label can be circular |
 | `ui-label-basic` | A label can reduce its complexity |
+| **List** | |
+| `ui-list` | A list groups related content |
+| `ui-list-bulleted` | A list can mark items with a bullet |
+| `ui-list-ordered` | A list can be ordered numerically |
+| `ui-list-link` | A list can be specially formatted for navigation links |
+| `ui-list-horizontal` | A list can be formatted to have items appear horizontally |
+| `ui-list-selection` | A selection list formats list items as possible choices |
+| `ui-list-animated` | A list can animate to set the current item apart from the list |
+| `ui-list-relaxed` | A list can relax its padding to provide more negative space |
+| `ui-list-divided` | A list can show divisions between content |
+| `ui-list-divided` | A list can divide its items into cells |
 
 ### JS 
 | **Prefix** | **Description** |

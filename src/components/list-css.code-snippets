@@ -1,0 +1,117 @@
+{
+    "Fomantic-UI Default List CSS": {
+        "prefix": "ui-list",
+        "description": "A list groups related content",
+        "body": [
+            "<div class=\"ui list\">",
+            "    <div class=\"item\">${0:Apples}</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Bulleted List CSS": {
+        "prefix": "ui-list-bulleted",
+        "description": "A list can mark items with a bullet",
+        "body": [
+            "<div class=\"ui bulleted list\">",
+            "    <div class=\"item\">${0:Apples}</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Ordered List CSS": {
+        "prefix": "ui-list-ordered",
+        "description": "A list can be ordered numerically",
+        "body": [
+            "<div class=\"ui ordered list\">",
+            "    <div class=\"item\">${0:Apples}</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Lik List CSS": {
+        "prefix": "ui-list-link",
+        "description": "A list can be specially formatted for navigation links",
+        "body": [
+            "<div class=\"ui link list\">",
+            "    <div class=\"active item\">${1:Home}</div>",
+            "    <a class=\"item\">${0:About}</a>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Horizontal List CSS": {
+        "prefix": "ui-list-horizontal",
+        "description": "A list can be formatted to have items appear horizontally",
+        "body": [
+            "<div class=\"ui horizontal list\">",
+            "    <div class=\"item\">",
+            "       <div class=\"content\">",
+            "           ${0:Helen}",
+            "       </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Selection List CSS": {
+        "prefix": "ui-list-selection",
+        "description": "A selection list formats list items as possible choices",
+        "body": [
+            "<div class=\"ui middle aligned selection list\">",
+            "    <div class=\"item\">",
+            "       <div class=\"content\">",
+            "           ${0:Helen}",
+            "       </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Animated List CSS": {
+        "prefix": "ui-list-animated",
+        "description": "A list can animate to set the current item apart from the list",
+        "body": [
+            "<div class=\"ui middle aligned animated list\">",
+            "    <div class=\"item\">",
+            "       <div class=\"content\">",
+            "           ${0:Helen}",
+            "       </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Relaxed List CSS": {
+        "prefix": "ui-list-relaxed",
+        "description": "A list can relax its padding to provide more negative space",
+        "body": [
+            "<div class=\"ui relaxed list\">",
+            "    <div class=\"item\">",
+            "       <div class=\"content\">",
+            "           ${0:Helen}",
+            "       </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Divided List CSS": {
+        "prefix": "ui-list-divided",
+        "description": "A list can show divisions between content",
+        "body": [
+            "<div class=\"ui middle aligned divided list\">",
+            "    <div class=\"item\">",
+            "       <div class=\"content\">",
+            "           ${0:Helen}",
+            "       </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Celled List CSS": {
+        "prefix": "ui-list-divided",
+        "description": "A list can divide its items into cells",
+        "body": [
+            "<div class=\"ui celled list\">",
+            "    <div class=\"item\">",
+            "       <div class=\"content\">",
+            "           ${0:Helen}",
+            "       </div>",
+            "    </div>",
+            "</div>"
+        ]
+    }
+}
