@@ -71,37 +71,6 @@
       "</button>"
     ]
   },
-  "Fomantic-UI Default Buttons CSS": {
-    "prefix": "ui-buttons",
-    "description": "Buttons can exist together as a group",
-    "body": [
-      "<div class=\"ui buttons\">",
-      "    <button class=\"ui button\">${1:One}</button>",
-      "    <button class=\"ui button\">${0:Two}</button>",
-      "</div>"
-    ]
-  },
-  "Fomantic-UI Icon Buttons CSS": {
-    "prefix": "ui-buttons-icon",
-    "description": "Button groups can show groups of icons",
-    "body": [
-      "<div class=\"ui icon buttons\">",
-      "    <button class=\"ui button\"><i class=\"${1:align left} icon\"></i></button>",
-      "    <button class=\"ui button\"><i class=\"${0:align right} icon\"></i></button>",
-      "</div>"
-    ]
-  },
-  "Fomantic-UI Conditionals Buttons CSS": {
-    "prefix": "ui-buttons-conditionals",
-    "description": "Button groups can contain conditionals",
-    "body": [
-      "<div class=\"ui buttons\">",
-      "    <button class=\"ui button\">${1:Cancel}</button>",
-      "    <div class=\"or\"></div>",
-      "    <button class=\"ui button\">${0:Save}</button>",
-      "</div>"
-    ]
-  },
   "Fomantic-UI Disabled Button CSS": {
     "prefix": "ui-button-disabled",
     "description": "A button can show it is currently unable to be interacted with",
@@ -154,6 +123,37 @@
     "body": [
       "<div class=\"circular ui ${1:icon} button\">",
       "    ${0:<i class=\"icon settings\"></i>}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Default Buttons CSS": {
+    "prefix": "ui-buttons",
+    "description": "Buttons can exist together as a group",
+    "body": [
+      "<div class=\"ui buttons\">",
+      "    <button class=\"ui button\">${1:One}</button>",
+      "    <button class=\"ui button\">${0:Two}</button>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Icon Buttons CSS": {
+    "prefix": "ui-buttons-icon",
+    "description": "Button groups can show groups of icons",
+    "body": [
+      "<div class=\"ui icon buttons\">",
+      "    <button class=\"ui button\"><i class=\"${1:align left} icon\"></i></button>",
+      "    <button class=\"ui button\"><i class=\"${0:align right} icon\"></i></button>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Conditionals Buttons CSS": {
+    "prefix": "ui-buttons-conditionals",
+    "description": "Button groups can contain conditionals",
+    "body": [
+      "<div class=\"ui buttons\">",
+      "    <button class=\"ui button\">${1:Cancel}</button>",
+      "    <div class=\"or\"></div>",
+      "    <button class=\"ui button\">${0:Save}</button>",
       "</div>"
     ]
   },
