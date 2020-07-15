@@ -696,5 +696,47 @@
       "    </div>",
       "</div>"
     ]
+  },
+  "Fomantic-UI Default Loader CSS": {
+    "prefix": "ui-loader",
+    "description": "A loader",
+    "body": [
+      "<div class=\"ui ${1:text} loader\">$0</div>"
+    ]
+  },
+  "Fomantic-UI Active Loader CSS": {
+    "prefix": "ui-loader-active",
+    "description": "A loader can be active or visible",
+    "body": [
+      "<div class=\"ui active loader\"></div>"
+    ]
+  },
+  "Fomantic-UI Disabled Loader CSS": {
+    "prefix": "ui-loader-disabled",
+    "description": "A loader can be disabled or hidden",
+    "body": [
+      "<div class=\"ui disabled loader\"></div>"
+    ]
+  },
+  "Fomantic-UI Inline Loader CSS": {
+    "prefix": "ui-loader-inline",
+    "description": "Loaders can appear inline with content",
+    "body": [
+      "<div class=\"ui ${0:active} inline loader\"></div>"
+    ]
+  },
+  "Fomantic-UI Double Loader CSS": {
+    "prefix": "ui-loader-double",
+    "description": "Loaders can also appear in double animation style. Can be combined with any color or speed.",
+    "body": [
+      "<div class=\"ui active double loader\"></div>"
+    ]
+  },
+  "Fomantic-UI Elastic Loader CSS": {
+    "prefix": "ui-loader-elastic",
+    "description": "Loaders can also appear in elastic animation style. Can be combined with any color or speed.",
+    "body": [
+      "<div class=\"ui active double loader\"></div>"
+    ]
   }
 }

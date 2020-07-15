@@ -101,6 +101,13 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-list-relaxed` | A list can relax its padding to provide more negative space |
 | `ui-list-divided` | A list can show divisions between content |
 | `ui-list-divided` | A list can divide its items into cells |
+| **Loader** | |
+| `ui-loader` | A loader |
+| `ui-loader-active` | A loader can be active or visible |
+| `ui-loader-disabled` | A loader can be disabled or hidden |
+| `ui-loader-inline` | Loaders can appear inline with content |
+| `ui-loader-double` | Loaders can also appear in double animation style. Can be combined with any color or speed. |
+| `ui-loader-elastic` | Loaders can also appear in elastic animation style. Can be combined with any color or speed. |
 
 ### JS 
 | **Prefix** | **Description** |
