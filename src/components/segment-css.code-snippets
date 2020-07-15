@@ -1,0 +1,155 @@
+{
+    "Fomantic-UI Default Segment": {
+        "prefix": "ui-segment",
+        "description": "A segment of content",
+        "body": [
+            "<div class=\"ui segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Placeholder Segment": {
+        "prefix": "ui-segment-placeholder",
+        "description": "A segment of content",
+        "body": [
+            "<div class=\"ui placeholder segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Raised Segment": {
+        "prefix": "ui-segment-raised",
+        "description": "A segment may be formatted to raise above the page.",
+        "body": [
+            "<div class=\"ui raised segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Stacked Segment": {
+        "prefix": "ui-segment-stacked",
+        "description": "A segment can be formatted to show it contains multiple pages",
+        "body": [
+            "<div class=\"ui stacked segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Piled Segment": {
+        "prefix": "ui-segment-piled",
+        "description": "A segment can be formatted to look like a pile of pages",
+        "body": [
+            "<div class=\"ui piled segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Vertical Segment": {
+        "prefix": "ui-segment-vertical",
+        "description": "A vertical segment formats content to be aligned as part of a vertical group",
+        "body": [
+            "<div class=\"ui vertical segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Basic Segment": {
+        "prefix": "ui-segment-basic",
+        "description": "A basic segment has no special formatting",
+        "body": [
+            "<div class=\"ui basic segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Secondary Segment": {
+        "prefix": "ui-segment-basic",
+        "description": "A basic segment has no special formatting",
+        "body": [
+            "<div class=\"ui secondary segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Disabled Segment": {
+        "prefix": "ui-segment-disabled",
+        "description": "A segment may show its content is disabled",
+        "body": [
+            "<div class=\"ui disabled segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Padded Segment": {
+        "prefix": "ui-segment-padded",
+        "description": "A segment may show its content is disabled",
+        "body": [
+            "<div class=\"ui padded segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Fitted Segment": {
+        "prefix": "ui-segment-fitted",
+        "description": "A segment can remove its padding, vertically or horizontally",
+        "body": [
+            "<div class=\"ui fitted segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Compact Segment": {
+        "prefix": "ui-segment-compact",
+        "description": "A segment may take up only as much space as is necessary",
+        "body": [
+            "<div class=\"ui compact segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Circular Segment": {
+        "prefix": "ui-segment-circular",
+        "description": "A segment can be circular",
+        "body": [
+            "<div class=\"ui circular segment\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Group Segments": {
+        "prefix": "ui-segments",
+        "description": "A group of segments can be formatted to appear together",
+        "body": [
+            "<div class=\"ui segments\">",
+            "   <div class=\"ui segment\">",
+            "       $1",
+            "   </div>",
+            "   $1",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Horizontal Segments": {
+        "prefix": "ui-segments-horizontal",
+        "description": "A segment group can appear horizontally",
+        "body": [
+            "<div class=\"ui horizontal segments\">",
+            "   <div class=\"ui segment\">",
+            "       $1",
+            "   </div>",
+            "   $1",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Compact Segments": {
+        "prefix": "ui-segments-compact",
+        "description": "A segment group can appear horizontally",
+        "body": [
+            "<div class=\"ui compact segments\">",
+            "   <div class=\"ui segment\">",
+            "       $1",
+            "   </div>",
+            "   $1",
+            "</div>"
+        ]
+    }
+}

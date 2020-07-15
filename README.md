@@ -123,6 +123,24 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-reveal-rotate` | An element can rotate to reveal content below |
 | `ui-reveal-instant` | An element can show its content without delay |
 | `ui-reveal-disabled` | A disabled reveal will not animate when hovered |
+| **Segment** | |
+| `ui-segment` | A segment of content |
+| `ui-segment-placeholder` | A segment of content |
+| `ui-segment-raised` | A segment may be formatted to raise above the page. |
+| `ui-segment-stacked` | A segment can be formatted to show it contains multiple pages |
+| `ui-segment-piled` | A segment can be formatted to look like a pile of pages |
+| `ui-segment-vertical` | A vertical segment formats content to be aligned as part of a vertical group |
+| `ui-segment-basic` | A basic segment has no special formatting |
+| `ui-segment-basic` | A basic segment has no special formatting |
+| `ui-segment-disabled` | A segment may show its content is disabled |
+| `ui-segment-padded` | A segment may show its content is disabled |
+| `ui-segment-fitted` | A segment can remove its padding, vertically or horizontally |
+| `ui-segment-compact` | A segment may take up only as much space as is necessary |
+| `ui-segment-circular` | A segment can be circular |
+| **Segments** | |
+| `ui-segments` | A group of segments can be formatted to appear together |
+| `ui-segments-horizontal` | A segment group can appear horizontally |
+| `ui-segments-compact` | A segment group can appear horizontally |
 
 ### JS 
 | **Prefix** | **Description** |
