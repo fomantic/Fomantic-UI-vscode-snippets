@@ -388,5 +388,91 @@
     "body": [
       "<img class=\"ui circular image\" src=\"${1:/images/image.png}\">$0"
     ]
+  },
+  "Fomantic-UI Default Input CSS": {
+    "prefix": "ui-input",
+    "description": "A standard input",
+    "body": [
+      "<div class=\"ui input\">",
+      "    <input type=\"text\" placeholder=\"${0:Search...}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Input CSS": {
+    "prefix": "ui-input-disabled",
+    "description": "An input field can show that it is disabled",
+    "body": [
+      "<div class=\"ui disabled input\">",
+      "    <input type=\"text\" placeholder=\"${0:Search...}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Error Input CSS": {
+    "prefix": "ui-input-error",
+    "description": "An input field can show the data contains errors",
+    "body": [
+      "<div class=\"ui input error\">",
+      "    <input type=\"text\" placeholder=\"${0:Search...}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Icon Input CSS": {
+    "prefix": "ui-input-icon",
+    "description": "An input can be formatted with an icon",
+    "body": [
+      "<div class=\"ui icon input\">",
+      "    <input type=\"text\" placeholder=\"${1:Search...}\">",
+      "    <i class=\"${0:search} icon\"></i>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Labeled Input CSS": {
+    "prefix": "ui-input-labeled",
+    "description": "An input can be formatted with a label",
+    "body": [
+      "<div class=\"ui labeled input\">",
+      "    <div class=\"ui label\">",
+      "        ${1:http://}",
+      "    </div>",
+      "    <input type=\"text\" placeholder=\"${0:Search...}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Action Input CSS": {
+    "prefix": "ui-input-action",
+    "description": "An input can be formatted to alert the user to an action they may perform",
+    "body": [
+      "<div class=\"ui action input\">",
+      "    <input type=\"text\" placeholder=\"${1:Search...}\">",
+      "    <button class=\"ui button\">${0:Search}</button>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Transparent Input CSS": {
+    "prefix": "ui-input-transparent",
+    "description": "A transparent input has no background",
+    "body": [
+      "<div class=\"ui transparent input\">",
+      "    <input type=\"text\" placeholder=\"${0:Search...}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Input CSS": {
+    "prefix": "ui-input-fluid",
+    "description": "An input can take the size of its container",
+    "body": [
+      "<div class=\"ui fluid input\">",
+      "    <input type=\"text\" placeholder=\"${0:Search...}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI TextArea Input CSS": {
+    "prefix": "ui-input-textarea",
+    "description": "Using the input class you can also use some features on textarea aswell",
+    "body": [
+      "<div class=\"ui input\">",
+      "    <textarea>${0:Some text}</textarea>",
+      "</div>"
+    ]
   }
 }

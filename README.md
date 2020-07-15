@@ -66,6 +66,16 @@ For example if there is an image subfolder under your extension project workspac
 | `ui-image-fluid` | An image can take up the width of its container |
 | `ui-image-rounded` | An image may appear rounded |
 | `ui-image-circular` | An image may appear circular |
+| **Input** | |
+| `ui-input` | A standard input |
+| `ui-input-disabled` | An input field can show that it is disabled |
+| `ui-input-error` | An input field can show the data contains errors |
+| `ui-input-icon` | An input can be formatted with an icon |
+| `ui-input-labeled` | An input can be formatted with a label |
+| `ui-input-action` | An input can be formatted to alert the user to an action they may perform |
+| `ui-input-transparent` | A transparent input has no background |
+| `ui-input-fluid` | An input can take the size of its container |
+| `ui-input-textarea` | Using the input class you can also use some features on textarea aswell |
 
 ### JS 
 | **Prefix** | **Description** |
