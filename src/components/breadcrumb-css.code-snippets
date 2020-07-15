@@ -1,0 +1,14 @@
+{
+    "Fomantic-UI Default Breadcrumb": {
+        "prefix": "ui-breadcrumb",
+        "description": "A standard breadcrumb",
+        "body": [
+            "<div class=\"ui breadcrumb\">",
+            "    <a class=\"section\">${1:Home}</a>",
+            "    <div class=\"divider\"> ${2:/} </div>",
+            "    <a class=\"section\">${3:Store}</a>",
+            "    <i class=\"${4:right angle} icon divider\"></i>",
+            "</div>"
+        ]
+    }
+}

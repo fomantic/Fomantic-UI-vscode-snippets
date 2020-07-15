@@ -13,6 +13,8 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 ### CSS 
 | **Prefix** | **Description** |
 |---|---|
+| **Breadcrumb** | |
+| `ui-breadcrumb` | A standard breadcrumb |
 | **Button** | |
 | `ui-button` | Creates a default button |
 | `ui-button-animated` | A button can animate to show hidden content |
