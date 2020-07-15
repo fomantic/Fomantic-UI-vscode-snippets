@@ -47,6 +47,18 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | **Emoji** | |
 | `ui-emoji` | You can provide the emoji shortname with or without colons |
 | `ui-emoji` | A flag can use the two digit country code, the full name, or a common alias |
+| **Form** | |
+| `ui-form` | A form |
+| `ui-form-success` | If a form is in an success state, it will automatically show any success message blocks. |
+| `ui-form-equal-width` | Individual fields may be disabled |
+| `ui-form-field` | A field is a form element containing a label and an input |
+| `ui-form-fields` | A set of fields can appear grouped together |
+| `ui-form-fields` | Fields can show related choices |
+| `ui-form-fields` | Fields can automatically divide fields to be equal width |
+| `ui-form-fields` | Multiple fields may be inline in a row |
+| `ui-form-field-disabled` | Individual fields may be disabled |
+| `ui-form-field-inline` | A field can have its label next to instead of above it. |
+| `ui-form-field-required` | A field can show that input is mandatory |
 | **Header** | |
 | `ui-header` | Headers may be oriented to give the hierarchy of a section in the context of the page |
 | `ui-header-icon` | A header can be formatted to emphasize an icon |

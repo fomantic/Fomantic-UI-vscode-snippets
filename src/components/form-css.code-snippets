@@ -1,0 +1,135 @@
+{
+    "Fomantic-UI Default Form": {
+        "prefix": "ui-form",
+        "description": "A form",
+        "body": [
+            "<div class=\"ui form\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Success Form": {
+        "prefix": "ui-form-success",
+        "description": "If a form is in an success state, it will automatically show any success message blocks.",
+        "body": [
+            "<div class=\"ui form success\">",
+            "   <div class=\"field\">",
+            "       <label>${1:User Input}</label>",
+            "       <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "   </div>",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Equal Width Form": {
+        "prefix": "ui-form-equal-width",
+        "description": "Individual fields may be disabled",
+        "body": [
+            "<div class=\"ui equal width form\">",
+            "    <div class=\"fields\">",
+            "       <div class=\"field\">",
+            "           <label>${1:User Input}</label>",
+            "           <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "       </div>",
+            "       $0",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Field Form": {
+        "prefix": "ui-form-field",
+        "description": "A field is a form element containing a label and an input",
+        "body": [
+            "<div class=\"field\">",
+            "    <label>${1:User Input}</label>",
+            "    <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Fields Form": {
+        "prefix": "ui-form-fields",
+        "description": "A set of fields can appear grouped together",
+        "body": [
+            "<div class=\"fields\">",
+            "   <div class=\"field\">",
+            "       <label>${1:User Input}</label>",
+            "       <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "   </div>",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Grouped Fields Form": {
+        "prefix": "ui-form-fields",
+        "description": "Fields can show related choices",
+        "body": [
+            "<div class=\"grouped fields\">",
+            "   <div class=\"field\">",
+            "       <label>${1:User Input}</label>",
+            "       <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "   </div>",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Equal Width Fields Form": {
+        "prefix": "ui-form-fields",
+        "description": "Fields can automatically divide fields to be equal width",
+        "body": [
+            "<div class=\"equal width fields\">",
+            "   <div class=\"field\">",
+            "       <label>${1:User Input}</label>",
+            "       <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "   </div>",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Inline Fields Form": {
+        "prefix": "ui-form-fields",
+        "description": "Multiple fields may be inline in a row",
+        "body": [
+            "<div class=\"inline fields\">",
+            "   <div class=\"field\">",
+            "       <label>${1:User Input}</label>",
+            "       <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "   </div>",
+            "   $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Disabled Field Form": {
+        "prefix": "ui-form-field-disabled",
+        "description": "Individual fields may be disabled",
+        "body": [
+            "<div class=\"disabled field\">",
+            "    <label>${1:User Input}</label>",
+            "    <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Inline Field Form": {
+        "prefix": "ui-form-field-inline",
+        "description": "A field can have its label next to instead of above it.",
+        "body": [
+            "<div class=\"inline field\">",
+            "    <label>${1:User Input}</label>",
+            "    <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "    $0",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Required Field Form": {
+        "prefix": "ui-form-field-required",
+        "description": "A field can show that input is mandatory",
+        "body": [
+            "<div class=\"required field\">",
+            "    <label>${1:User Input}</label>",
+            "    <input type=\"${2:text}\" placeholder=\"${3:Some text}\">",
+            "    $0",
+            "</div>"
+        ]
+    }
+}
