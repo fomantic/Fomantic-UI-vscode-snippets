@@ -2,7 +2,11 @@
     "name": "fomantic-ui-snippets",
     "displayName": "Fomantic-UI Snippets",
     "description": "Fomantic-UI Snippets for VS Code",
-    "publisher": "Jose Luis Tresserras Merino",
+    "author": {
+        "name": "Jose Luis Tresserras Merino",
+        "url": "https://github.com/TheJltres"
+    },
+    "publisher": "TheJltres",
     "version": "0.0.1",
     "scripts": {
         "start": "node ."
