@@ -738,5 +738,23 @@
     "body": [
       "<div class=\"ui active double loader\"></div>"
     ]
+  },
+  "Fomantic-UI Default Placeholder": {
+    "prefix": "ui-placeholder",
+    "description": "A placeholder is used to reserve space for content that soon will appear in a layout.",
+    "body": [
+      "<div class=\"ui placeholder\">",
+      "   $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Placeholder": {
+    "prefix": "ui-placeholder-fluid",
+    "description": "A fluid placeholder takes up the width of its container",
+    "body": [
+      "<div class=\"ui fluid placeholder\">",
+      "   $0",
+      "</div>"
+    ]
   }
 }

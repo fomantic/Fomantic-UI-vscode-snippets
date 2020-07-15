@@ -108,6 +108,9 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-loader-inline` | Loaders can appear inline with content |
 | `ui-loader-double` | Loaders can also appear in double animation style. Can be combined with any color or speed. |
 | `ui-loader-elastic` | Loaders can also appear in elastic animation style. Can be combined with any color or speed. |
+| **Placeholder** | |
+| `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
+| `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
 
 ### JS 
 | **Prefix** | **Description** |
