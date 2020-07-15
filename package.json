@@ -6,6 +6,7 @@
         "name": "Jose Luis Tresserras Merino",
         "url": "https://github.com/TheJltres"
     },
+    "icon": "icon.png",
     "publisher": "TheJltres",
     "repository": {
         "url": "https://github.com/TheJltres/fomantic-ui-vscode-snippets"
