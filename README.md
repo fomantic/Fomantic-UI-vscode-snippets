@@ -76,6 +76,20 @@ For example if there is an image subfolder under your extension project workspac
 | `ui-input-transparent` | A transparent input has no background |
 | `ui-input-fluid` | An input can take the size of its container |
 | `ui-input-textarea` | Using the input class you can also use some features on textarea aswell |
+| **Label** | |
+| `ui-label` | A label |
+| `ui-label-image` | A label can be formatted to emphasize an image |
+| `ui-label-pointing` | A label can point to content next to it |
+| `ui-label-corner` | A label can position itself in the corner of an element |
+| `ui-label-tag` | A label can appear as a tag |
+| `ui-label-ribbon` | A label can appear as a ribbon attaching itself to an element. |
+| `ui-label-attached` | A label can attach to a content segment |
+| `ui-label-attached` | A horizontal label is formatted to label content along-side it horizontally |
+| `ui-label-floating` | A label can float above or below another element. |
+| `ui-label-detail` | A label can float above or below another element. |
+| `ui-label-detail` | A label can float above or below another element. |
+| `ui-label-circular` | A label can be circular |
+| `ui-label-basic` | A label can reduce its complexity |
 
 ### JS 
 | **Prefix** | **Description** |

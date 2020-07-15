@@ -474,5 +474,112 @@
       "    <textarea>${0:Some text}</textarea>",
       "</div>"
     ]
+  },
+  "Fomantic-UI Default Label CSS": {
+    "prefix": "ui-label",
+    "description": "A label",
+    "body": [
+      "<div class=\"ui label\">",
+      "    <i class=\"${1:mail} icon\"></i>",
+      "    ${0:Some text}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Image Label CSS": {
+    "prefix": "ui-label-image",
+    "description": "A label can be formatted to emphasize an image",
+    "body": [
+      "<div class=\"ui image label\">",
+      "    <img src=\"${1:/images/avatar/small/joe.jpg}\">",
+      "    ${0:Some text}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Pointing Label CSS": {
+    "prefix": "ui-label-pointing",
+    "description": "A label can point to content next to it",
+    "body": [
+      "<div class=\"ui pointing ${1:bellow} label\">",
+      "    ${0:Some text}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Corner Label CSS": {
+    "prefix": "ui-label-corner",
+    "description": "A label can position itself in the corner of an element",
+    "body": [
+      "<div class=\"ui ${1:left} corner label\">",
+      "    <i class=\"${0:heart} icon\"></i>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Tag Label CSS": {
+    "prefix": "ui-label-tag",
+    "description": "A label can appear as a tag",
+    "body": [
+      "<a class=\"ui tag label\">${0:New}</a>"
+    ]
+  },
+  "Fomantic-UI Ribbon Label CSS": {
+    "prefix": "ui-label-ribbon",
+    "description": "A label can appear as a ribbon attaching itself to an element.",
+    "body": [
+      "<a class=\"ui ribbon label\">${0:New}</a>"
+    ]
+  },
+  "Fomantic-UI Attached Label CSS": {
+    "prefix": "ui-label-attached",
+    "description": "A label can attach to a content segment",
+    "body": [
+      "<div class=\"ui ${1:top} attached label\">${0:HTML}</div>"
+    ]
+  },
+  "Fomantic-UI Horizontal Label CSS": {
+    "prefix": "ui-label-attached",
+    "description": "A horizontal label is formatted to label content along-side it horizontally",
+    "body": [
+      "<div class=\"ui horizontal label\">${0:Fruit}</div>"
+    ]
+  },
+  "Fomantic-UI Floating Label CSS": {
+    "prefix": "ui-label-floating",
+    "description": "A label can float above or below another element.",
+    "body": [
+      "<div class=\"floating ui label\">${0:22}</div>"
+    ]
+  },
+  "Fomantic-UI Detail Label CSS": {
+    "prefix": "ui-label-detail",
+    "description": "A label can float above or below another element.",
+    "body": [
+      "<div class=\"ui label\">",
+      "    ${1:Dogs}",
+      "    <div class=\"detail\">${0:214}</div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Icon Label CSS": {
+    "prefix": "ui-label-detail",
+    "description": "A label can float above or below another element.",
+    "body": [
+      "<div class=\"ui label\">",
+      "    <i class=\"${1:mail} icon\"></i>",
+      "    ${0:Dogs}",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Circular Label CSS": {
+    "prefix": "ui-label-circular",
+    "description": "A label can be circular",
+    "body": [
+      "<a class=\"ui ${1:empty} circular label\">${0:2}</a>"
+    ]
+  },
+  "Fomantic-UI Basic Label CSS": {
+    "prefix": "ui-label-basic",
+    "description": "A label can reduce its complexity",
+    "body": [
+      "<a class=\"ui basic label\">${0:Basic}</a>"
+    ]
   }
 }
