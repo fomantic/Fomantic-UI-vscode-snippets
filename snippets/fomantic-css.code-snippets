@@ -967,6 +967,123 @@
       "<div class=\"ui active double loader\"></div>"
     ]
   },
+  "Fomantic-UI Default Menu": {
+    "prefix": "ui-menu",
+    "description": "Creates a menu",
+    "body": [
+      "<div class=\"ui menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Secondary Menu": {
+    "prefix": "ui-menu-secondary",
+    "description": "A menu can adjust its appearance to de-emphasize its contents",
+    "body": [
+      "<div class=\"ui secondary menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Pointing Menu": {
+    "prefix": "ui-menu-pointing",
+    "description": "A menu can point to show its relationship to nearby content",
+    "body": [
+      "<div class=\"ui pointing menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Tabular Menu": {
+    "prefix": "ui-menu-tabular",
+    "description": "A menu can be formatted to show tabs of information",
+    "body": [
+      "<div class=\"ui tabular menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Text Menu": {
+    "prefix": "ui-menu-text",
+    "description": "A menu can be formatted for text conten",
+    "body": [
+      "<div class=\"ui text menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Vertical Menu": {
+    "prefix": "ui-menu-vertical",
+    "description": "A vertical menu displays elements vertically..",
+    "body": [
+      "<div class=\"ui vertical menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Pagination Menu": {
+    "prefix": "ui-menu-pagination",
+    "description": "A pagination menu is specially formatted to present links to pages of content",
+    "body": [
+      "<div class=\"ui pagination menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fiexd Menu": {
+    "prefix": "ui-menu-fixed",
+    "description": "A menu can be fixed to a side of its context",
+    "body": [
+      "<div class=\"ui ${1:top} fixed menu\">",
+      "    <a class=\"${2:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Stackable Menu": {
+    "prefix": "ui-menu-stackable",
+    "description": "A menu can stack at mobile resolutions",
+    "body": [
+      "<div class=\"ui stackable menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Icon Menu": {
+    "prefix": "ui-menu-icon",
+    "description": "A menu may have just icons",
+    "body": [
+      "<div class=\"ui icon menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Menu": {
+    "prefix": "ui-menu-fluid",
+    "description": "A vertical menu may take the size of its container. (A horizontal menu does this by default)",
+    "body": [
+      "<div class=\"ui fluid menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Compact Menu": {
+    "prefix": "ui-menu-compact",
+    "description": "A menu can take up only the space necessary to fit its content",
+    "body": [
+      "<div class=\"ui compact menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Borderless Menu": {
+    "prefix": "ui-menu-borderless",
+    "description": "A menu item or menu can have no borders",
+    "body": [
+      "<div class=\"ui borderless menu\">",
+      "    <a class=\"${1:active} item\">${0:Some text}</a>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Placeholder": {
     "prefix": "ui-placeholder",
     "description": "A placeholder is used to reserve space for content that soon will appear in a layout.",

@@ -135,6 +135,20 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | **Placeholder** | |
 | `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
 | `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
+| **Menu** | |
+| `ui-menu` | Creates a menu |
+| `ui-menu-secondary` | A menu can adjust its appearance to de-emphasize its contents |
+| `ui-menu-pointing` | A menu can point to show its relationship to nearby content |
+| `ui-menu-tabular` | A menu can be formatted to show tabs of information |
+| `ui-menu-text` | A menu can be formatted for text conten |
+| `ui-menu-vertical` | A vertical menu displays elements vertically.. |
+| `ui-menu-pagination` | A pagination menu is specially formatted to present links to pages of content |
+| `ui-menu-fixed` | A menu can be fixed to a side of its context |
+| `ui-menu-stackable` | A menu can stack at mobile resolutions |
+| `ui-menu-icon` | A menu may have just icons |
+| `ui-menu-fluid` | A vertical menu may take the size of its container. (A horizontal menu does this by default) |
+| `ui-menu-compact` | A menu can take up only the space necessary to fit its content |
+| `ui-menu-borderless` | A menu item or menu can have no borders |
 | **Rail** | |
 | `ui-rail` | A rail can be presented on the left or right side of a container |
 | `ui-rail-internal` | A rail can attach itself to the inside of a container |
