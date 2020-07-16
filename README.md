@@ -132,9 +132,6 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-loader-inline` | Loaders can appear inline with content |
 | `ui-loader-double` | Loaders can also appear in double animation style. Can be combined with any color or speed. |
 | `ui-loader-elastic` | Loaders can also appear in elastic animation style. Can be combined with any color or speed. |
-| **Placeholder** | |
-| `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
-| `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
 | **Menu** | |
 | `ui-menu` | Creates a menu |
 | `ui-menu-secondary` | A menu can adjust its appearance to de-emphasize its contents |
@@ -149,6 +146,17 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-menu-fluid` | A vertical menu may take the size of its container. (A horizontal menu does this by default) |
 | `ui-menu-compact` | A menu can take up only the space necessary to fit its content |
 | `ui-menu-borderless` | A menu item or menu can have no borders |
+| **Message** | |
+| `ui-message` | A basic message |
+| `ui-message-icon` | A basic message |
+| `ui-message-hidden` | A message can be hidden |
+| `ui-message-visible` | A message can be set to visible to force itself to be shown. |
+| `ui-message-floating` | A message can float above content that it is related to |
+| `ui-message-compact` | A message can only take up the width of its content. |
+| `ui-message-attached` | A message can be formatted to attach itself to other content |
+| **Placeholder** | |
+| `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
+| `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
 | **Rail** | |
 | `ui-rail` | A rail can be presented on the left or right side of a container |
 | `ui-rail-internal` | A rail can attach itself to the inside of a container |
