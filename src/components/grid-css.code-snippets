@@ -1,0 +1,85 @@
+{
+    "Fomantic-UI Default Grid CSS": {
+        "prefix": "ui-grid",
+        "description": "A grid is a structure with a long history used to align negative space in designs. Using a grid makes content appear to flow more naturally on your page.",
+        "body": [
+            "<div class=\"ui grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Row Grid CSS": {
+        "prefix": "ui-grid-row",
+        "description": "Rows are groups of columns which are aligned horizontally",
+        "body": [
+            "<div class=\"ui grid\">",
+            "    <div class=\"row\">",
+            "        <div class=\"column\">$0</div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Relaxed Grid CSS": {
+        "prefix": "ui-grid-relaxed",
+        "description": "Grid columns are separated by areas of white space referred to as \"gutters\". Gutters improve legibility by providing, negative space between page elements.",
+        "body": [
+            "<div class=\"ui relaxed grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Equal Width Grid CSS": {
+        "prefix": "ui-grid-equal-width",
+        "description": "The equal width variation will automatically divide column width evenly. This is useful with dynamic content where you do not know the column count in advance.",
+        "body": [
+            "<div class=\"ui equal width grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Centered Grid CSS": {
+        "prefix": "ui-grid-centered",
+        "description": "The equal width variation will automatically divide column width evenly. This is useful with dynamic content where you do not know the column count in advance.",
+        "body": [
+            "<div class=\"ui centered grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Stackable Grid CSS": {
+        "prefix": "ui-grid-stackable",
+        "description": "A stackable grid will automatically stack rows to a single columns on mobile devices",
+        "body": [
+            "<div class=\"ui stackable grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Reverse Grid CSS": {
+        "prefix": "ui-grid-reverse",
+        "description": "Fomantic includes special reversed variations that allow you to reverse the order of columns or rows by device",
+        "body": [
+            "<div class=\"ui reversed grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Divided Grid CSS": {
+        "prefix": "ui-grid-divided",
+        "description": "A grid can have dividers between its columns or rows",
+        "body": [
+            "<div class=\"ui divided grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Celled Grid CSS": {
+        "prefix": "ui-grid-celled",
+        "description": "A grid can have rows divided into cells",
+        "body": [
+            "<div class=\"ui celled grid\">",
+            "    <div class=\"column\">$0</div>",
+            "</div>"
+        ]
+    }
+}

@@ -59,6 +59,16 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-form-field-disabled` | Individual fields may be disabled |
 | `ui-form-field-inline` | A field can have its label next to instead of above it. |
 | `ui-form-field-required` | A field can show that input is mandatory |
+| **Grid** | |
+| `ui-grid` | A grid is a structure with a long history used to align negative space in designs. Using a grid makes content appear to flow more naturally on your page. |
+| `ui-grid-row` | Rows are groups of columns which are aligned horizontally |
+| `ui-grid-relaxed` | Grid columns are separated by areas of white space referred to as "gutters". Gutters improve legibility by providing, negative space between page elements. |
+| `ui-grid-equal-width` | The equal width variation will automatically divide column width evenly. This is useful with dynamic content where you do not know the column count in advance. |
+| `ui-grid-centered` | The equal width variation will automatically divide column width evenly. This is useful with dynamic content where you do not know the column count in advance. |
+| `ui-grid-stackable` | A stackable grid will automatically stack rows to a single columns on mobile devices |
+| `ui-grid-reverse` | Fomantic includes special reversed variations that allow you to reverse the order of columns or rows by device |
+| `ui-grid-divided` | A grid can have dividers between its columns or rows |
+| `ui-grid-celled` | A grid can have rows divided into cells |
 | **Header** | |
 | `ui-header` | Headers may be oriented to give the hierarchy of a section in the context of the page |
 | `ui-header-icon` | A header can be formatted to emphasize an icon |
