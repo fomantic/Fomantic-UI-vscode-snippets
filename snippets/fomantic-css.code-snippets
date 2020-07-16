@@ -1597,6 +1597,258 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Table": {
+    "prefix": "ui-table",
+    "description": "A standard table",
+    "body": [
+      "<table class=\"ui table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Definition Table": {
+    "prefix": "ui-table-definition",
+    "description": "A table may be formatted to emphasize a first column that defines a rows content",
+    "body": [
+      "<table class=\"ui definition table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Structured Table": {
+    "prefix": "ui-table-structured",
+    "description": "A table can be formatted to display complex structured data",
+    "body": [
+      "<table class=\"ui structured table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Single Line Table": {
+    "prefix": "ui-table-single-line",
+    "description": "A table can specify that its cell contents should remain on a single line, and not wrap.",
+    "body": [
+      "<table class=\"ui single line table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Fixed Table": {
+    "prefix": "ui-table-fixed",
+    "description": "A table can use table-layout: fixed a special faster form of table rendering that does not resize table cells based on content.",
+    "body": [
+      "<table class=\"ui fixed table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Stackable Table": {
+    "prefix": "ui-table-stackable",
+    "description": "A table can specify how it stacks table content responsively",
+    "body": [
+      "<table class=\"ui stackable table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Untackable Table": {
+    "prefix": "ui-table-unstackable",
+    "description": "A table can specify how it stacks table content responsively",
+    "body": [
+      "<table class=\"ui unstackable table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Striped Table": {
+    "prefix": "ui-table-striped",
+    "description": "A table can stripe alternate rows of content with a darker color to increase contrast",
+    "body": [
+      "<table class=\"ui striped table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Celled Table": {
+    "prefix": "ui-table-celled",
+    "description": "A table may be divided each row into separate cells",
+    "body": [
+      "<table class=\"ui celled table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Basic Table": {
+    "prefix": "ui-table-basic",
+    "description": "A table can reduce its complexity to increase readability.",
+    "body": [
+      "<table class=\"ui table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Collapsing Table": {
+    "prefix": "ui-table-collapsing",
+    "description": "A table can be collapsing, taking up only as much space as its rows.",
+    "body": [
+      "<table class=\"ui collapsing table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Sortable Table": {
+    "prefix": "ui-table-sortable",
+    "description": "A table may allow a user to sort contents by clicking on a table header.",
+    "body": [
+      "<table class=\"ui sortable table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Padded Table": {
+    "prefix": "ui-table-padded",
+    "description": "A table may sometimes need to be more padded for legibility",
+    "body": [
+      "<table class=\"ui padded table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
+  "Fomantic-UI Compact Table": {
+    "prefix": "ui-table-compact",
+    "description": "A table may sometimes need to be more compact to make more rows visible at a time",
+    "body": [
+      "<table class=\"ui compact table\">",
+      "    <thead>",
+      "        <tr>",
+      "           <th>${1:Name}</th>",
+      "        </tr>",
+      "    </thead>",
+      "    <tbody>",
+      "    <tr>",
+      "        <td data-label=\"${1:Name}\">${2:James}</td>",
+      "    </tr>",
+      "    </tbody>",
+      "</table>"
+    ]
+  },
   "Fomantic-UI Default Text": {
     "prefix": "ui-text",
     "description": "A text is always used inline and uses one color from the FUI color palette",

@@ -200,6 +200,22 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-steps-unstackable` | A step can prevent itself from stacking on mobile |
 | `ui-steps-fluid` | A fluid step takes up the width of its container |
 | `ui-steps-attached` | Steps can be attached to other elements |
+| **Table** | |
+| `ui-table` | A standard table |
+| `ui-table-definition` | A table may be formatted to emphasize a first column that defines a rows content |
+| `ui-table-structured` | A table can be formatted to display complex structured data |
+| `ui-table-single-line` | A table can specify that its cell contents should remain on a single line, and not wrap. |
+| `ui-table-fixed` | A table can use table-layout: fixed a special faster form of table rendering that does not resize table cells based on content. |
+| `ui-table-stackable` | A table can specify how it stacks table content responsively |
+| `ui-table-unstackable` | A table can specify how it stacks table content responsively |
+| `ui-table-striped` | A table can stripe alternate rows of content with a darker color to increase contrast |
+| `ui-table-celled` | A table may be divided each row into separate cells |
+| `ui-table-basic` | A table can reduce its complexity to increase readability. |
+| `ui-table-collapsing` | A table can be collapsing, taking up only as much space as its rows. |
+| `ui-table-sortable` | A table may allow a user to sort contents by clicking on a table header. |
+| `ui-table-padded` | A table may sometimes need to be more padded for legibility |
+| `ui-table-compact` | A table may sometimes need to be more compact to make more rows visible at a time |
+| **Text** | |
 | `ui-text` | A text is always used inline and uses one color from the FUI color palette |
 
 ### JS 
