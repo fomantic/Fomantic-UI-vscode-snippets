@@ -52,6 +52,10 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-card-stackable` | A group of cards can double its column width for mobile |
 | **Cards** | |
 | `ui-cards` | A group of cards. |
+| **Comments** | |
+| `ui-comments` | A basic list of comments |
+| `ui-comments-threaded` | A comment list can be threaded to showing the relationship between conversations |
+| `ui-comments-minimal` | Comments can hide extra information unless a user shows intent to interact with a comment. |
 | **Container** | |
 | `ui-container` | Creates a container |
 | **Divider** | |

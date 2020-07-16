@@ -350,6 +350,57 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Comment": {
+    "prefix": "ui-comments",
+    "description": "A basic list of comments",
+    "body": [
+      "<div class=\"ui comments\">",
+      "    <div class=\"comment\">",
+      "        <a class=\"avatar\">",
+      "            <img src=\"${1:/images/avatar/small/elliot.jpg}\">",
+      "        </a>",
+      "        <div class=\"content\">",
+      "            <a class=\"author\">${2:Elliot Fu}</a>",
+      "            $0",
+      "        </div>",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Threaded Comment": {
+    "prefix": "ui-comments-threaded",
+    "description": "A comment list can be threaded to showing the relationship between conversations",
+    "body": [
+      "<div class=\"ui threaded comments\">",
+      "    <div class=\"comment\">",
+      "        <a class=\"avatar\">",
+      "            <img src=\"${1:/images/avatar/small/elliot.jpg}\">",
+      "        </a>",
+      "        <div class=\"content\">",
+      "            <a class=\"author\">${2:Elliot Fu}</a>",
+      "            $0",
+      "        </div>",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Minimal Comment": {
+    "prefix": "ui-comments-minimal",
+    "description": "Comments can hide extra information unless a user shows intent to interact with a comment.",
+    "body": [
+      "<div class=\"ui minimal comments\">",
+      "    <div class=\"comment\">",
+      "        <a class=\"avatar\">",
+      "            <img src=\"${1:/images/avatar/small/elliot.jpg}\">",
+      "        </a>",
+      "        <div class=\"content\">",
+      "            <a class=\"author\">${2:Elliot Fu}</a>",
+      "            $0",
+      "        </div>",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Container": {
     "prefix": "ui-container",
     "description": "Creates a container",
