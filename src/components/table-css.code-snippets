@@ -10,9 +10,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -28,9 +29,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -46,9 +48,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -64,9 +67,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -82,9 +86,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -100,9 +105,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -118,9 +124,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -136,9 +143,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -154,9 +162,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -172,9 +181,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -190,9 +200,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -208,9 +219,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -226,9 +238,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
@@ -244,9 +257,10 @@
             "        </tr>",
             "    </thead>",
             "    <tbody>",
-            "    <tr>",
-            "        <td data-label=\"${1:Name}\">${2:James}</td>",
-            "    </tr>",
+            "       <tr>",
+            "           <td data-label=\"${1:Name}\">${2:James}</td>",
+            "       </tr>",
+            "       $0",
             "    </tbody>",
             "</table>"
         ]
