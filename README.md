@@ -13,6 +13,14 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 ### CSS 
 | **Prefix** | **Description** |
 |---|---|
+| **Ad** | |
+| `ui-ad` | A standard ad |
+| `ui-ad-button` | An ad can use button ad unit size |
+| `ui-ad-skycraper` | An ad can use skyscraper ad unit size |
+| `ui-ad-banner` | An ad can use banner ad unit size |
+| `ui-ad-laderboard` | An ad can use leaderboard ad unit size |
+| `ui-ad-panorama` | An ad can use panorama ad unit size |
+| `ui-ad-netboard` | An ad can use netboard ad unit size |
 | **Breadcrumb** | |
 | `ui-breadcrumb` | A standard breadcrumb |
 | **Button** | |

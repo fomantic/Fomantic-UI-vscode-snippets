@@ -1,0 +1,51 @@
+{
+    "Fomantic-UI Default Advertisement": {
+        "prefix": "ui-ad",
+        "description": "A standard ad",
+        "body": [
+            "<div class=\"ui$1 ad\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Button Advertisement": {
+        "prefix": "ui-ad-button",
+        "description": "An ad can use button ad unit size",
+        "body": [
+            "<div class=\"ui$1 button ad\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Skycraper Advertisement": {
+        "prefix": "ui-ad-skycraper",
+        "description": "An ad can use skyscraper ad unit size",
+        "body": [
+            "<div class=\"ui$1 skyscraper ad\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Banner Advertisement": {
+        "prefix": "ui-ad-banner",
+        "description": "An ad can use banner ad unit size",
+        "body": [
+            "<div class=\"ui$1 banner ad\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Laderboards Advertisement": {
+        "prefix": "ui-ad-laderboard",
+        "description": "An ad can use leaderboard ad unit size",
+        "body": [
+            "<div class=\"ui$1 leaderboard ad\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Panorama Advertisement": {
+        "prefix": "ui-ad-panorama",
+        "description": "An ad can use panorama ad unit size",
+        "body": [
+            "<div class=\"ui$1 panorama ad\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Netboard Advertisement": {
+        "prefix": "ui-ad-netboard",
+        "description": "An ad can use netboard ad unit size",
+        "body": [
+            "<div class=\"ui$1 netboard ad\">$0</div>"
+        ]
+    }
+}
