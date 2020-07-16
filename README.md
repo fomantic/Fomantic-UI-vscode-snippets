@@ -6,6 +6,10 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 
 [Fomantic-UI](https://fomantic-ui.com/) allows developers to build beautiful websites fast, with concise HTML, intuitive javascript, and simplified debugging, helping make front-end development a delightful experience. Fomantic is responsively designed allowing your website to scale on multiple devices.
 
+## Main purpose
+This project helps you to write faster [Fomantic-UI](https://fomantic-ui.com/) components, this means that is not needed to add colors, sizes and different types of *personalization*.
+This has a reason, if you add more snippets, will be a mess searching components with lots of different options, it is easier and faster to write yourself that personalization.
+
 ![demo](https://github.com/fomantic/Fomantic-UI-vscode-snippets/blob/master/images/demo.gif)
 
 ## Shortcut dictionary
