@@ -1,0 +1,101 @@
+{
+    "Fomantic-UI Default Message": {
+        "prefix": "ui-message",
+        "description": "A basic message",
+        "body": [
+            "<div class=\"ui message\">",
+            "    <div class=\"content\">",
+            "       <div class=\"header\">",
+            "           ${1:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Icon Message": {
+        "prefix": "ui-message-icon",
+        "description": "A basic message",
+        "body": [
+            "<div class=\"ui icon message\">",
+            "    <div class=\"content\">",
+            "       <i class=\"${1:inbox} icon\"></i>",
+            "       <div class=\"header\">",
+            "           ${2:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Hidden Message": {
+        "prefix": "ui-message-hidden",
+        "description": "A message can be hidden",
+        "body": [
+            "<div class=\"ui hidden message\">",
+            "    <div class=\"content\">",
+            "       <div class=\"header\">",
+            "           ${1:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Visible Message": {
+        "prefix": "ui-message-visible",
+        "description": "A message can be set to visible to force itself to be shown.",
+        "body": [
+            "<div class=\"ui visible message\">",
+            "    <div class=\"content\">",
+            "       <div class=\"header\">",
+            "           ${1:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Floating Message": {
+        "prefix": "ui-message-floating",
+        "description": "A message can float above content that it is related to",
+        "body": [
+            "<div class=\"ui floating message\">",
+            "    <div class=\"content\">",
+            "       <div class=\"header\">",
+            "           ${1:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Compact Message": {
+        "prefix": "ui-message-compact",
+        "description": "A message can only take up the width of its content.",
+        "body": [
+            "<div class=\"ui compact message\">",
+            "    <div class=\"content\">",
+            "       <div class=\"header\">",
+            "           ${1:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Attached Message": {
+        "prefix": "ui-message-attached",
+        "description": "A message can be formatted to attach itself to other content",
+        "body": [
+            "<div class=\"ui attached message\">",
+            "    <div class=\"content\">",
+            "       <div class=\"header\">",
+            "           ${1:Header}",
+            "       </div>",
+            "       <p>${0:Some text}</p>",
+            "    </div>",
+            "</div>"
+        ]
+    }
+}
