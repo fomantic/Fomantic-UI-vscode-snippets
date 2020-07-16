@@ -1,0 +1,134 @@
+{
+    "Fomantic-UI Default Card": {
+        "prefix": "ui-card",
+        "description": "A single card.",
+        "body": [
+            "<div class=\"ui card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Image Card": {
+        "prefix": "ui-card-image",
+        "description": "A card can contain an image",
+        "body": [
+            "<div class=\"ui card\">",
+            "    <div class=\"image\">",
+            "        <img src=\"${1:/images/avatar2/large/kristy.png}\">",
+            "    </div>",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${2:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Fluid Card": {
+        "prefix": "ui-card-fluid",
+        "description": "A fluid card takes up the width of its container",
+        "body": [
+            "<div class=\"ui fluid card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Centered Card": {
+        "prefix": "ui-card-centered",
+        "description": "A card can center itself inside its container",
+        "body": [
+            "<div class=\"ui centered card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Horizontal Card": {
+        "prefix": "ui-card-horizontal",
+        "description": "A card can display horizontally",
+        "body": [
+            "<div class=\"ui horizontal card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Raised Card": {
+        "prefix": "ui-card-raised",
+        "description": "A card may be formatted to raise above the page.",
+        "body": [
+            "<div class=\"ui raised card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Stackable Card": {
+        "prefix": "ui-card-stackable",
+        "description": "A group of cards can automatically stack rows to a single columns on mobile devices",
+        "body": [
+            "<div class=\"ui stackable card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Doubling Card": {
+        "prefix": "ui-card-stackable",
+        "description": "A group of cards can double its column width for mobile",
+        "body": [
+            "<div class=\"ui doubling card\">",
+            "    <div class=\"content\">",
+            "        <a class=\"header\">${1:Kristy}</a>",
+            "        <div class=\"description\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Default Cards": {
+        "prefix": "ui-cards",
+        "description": "A group of cards.",
+        "body": [
+            "<div class=\"ui cards\">",
+            "    <div class=\"ui card\">",
+            "        <div class=\"content\">",
+            "            <a class=\"header\">${1:Kristy}</a>",
+            "            <div class=\"description\">",
+            "                ${2:Some text}",
+            "            </div>",
+            "        </div>",
+            "    </div>",
+            "    $0",
+            "</div>"
+        ]
+    }
+}

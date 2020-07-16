@@ -41,6 +41,17 @@ This extension provides code snippets for [Fomantic-UI](https://fomantic-ui.com/
 | `ui-buttons` | Buttons can exist together as a group |
 | `ui-buttons-icon` | Button groups can show groups of icons |
 | `ui-buttons-conditionals` | Button groups can contain conditionals |
+| **Card** | |
+| `ui-card` | A single card. |
+| `ui-card-image` | A card can contain an image |
+| `ui-card-fluid` | A fluid card takes up the width of its container |
+| `ui-card-centered` | A card can center itself inside its container |
+| `ui-card-horizontal` | A card can display horizontally |
+| `ui-card-raised` | A card may be formatted to raise above the page. |
+| `ui-card-stackable` | A group of cards can automatically stack rows to a single columns on mobile devices |
+| `ui-card-stackable` | A group of cards can double its column width for mobile |
+| **Cards** | |
+| `ui-cards` | A group of cards. |
 | **Container** | |
 | `ui-container` | Creates a container |
 | **Divider** | |
