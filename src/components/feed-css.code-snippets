@@ -1,0 +1,18 @@
+{
+    "Fomantic-UI Default Feed": {
+        "prefix": "ui-feed",
+        "description": "A feed",
+        "body": [
+            "<div class=\"ui feed\">",
+            "    <div class=\"event\">",
+            "        <div class=\"label\">",
+            "            <img src=\"${1:/images/avatar/small/elliot.jpg}\">",
+            "        </div>",
+            "        <div class=\"content\">",
+            "            ${0:Some text}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    }
+}

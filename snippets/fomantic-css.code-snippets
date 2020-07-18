@@ -484,6 +484,22 @@
       "<em data-emoji=\":${1:cupid}:\"></em>$0"
     ]
   },
+  "Fomantic-UI Default Feed": {
+    "prefix": "ui-feed",
+    "description": "A feed",
+    "body": [
+      "<div class=\"ui feed\">",
+      "    <div class=\"event\">",
+      "        <div class=\"label\">",
+      "            <img src=\"${1:/images/avatar/small/elliot.jpg}\">",
+      "        </div>",
+      "        <div class=\"content\">",
+      "            ${0:Some text}",
+      "        </div>",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Flag CSS": {
     "prefix": "ui-emoji",
     "description": "A flag can use the two digit country code, the full name, or a common alias",

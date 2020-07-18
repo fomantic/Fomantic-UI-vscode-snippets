@@ -74,6 +74,10 @@ This has a reason, if you add more snippets, will be a mess searching components
 | **Emoji** | |
 | `ui-emoji` | You can provide the emoji shortname with or without colons |
 | `ui-emoji` | A flag can use the two digit country code, the full name, or a common alias |
+| **Feed** | |
+| `ui-feed` | A feed |
+| **Flag** | |
+| `ui-flag` | A flag can use the two digit country code, the full name, or a common alias |
 | **Form** | |
 | `ui-form` | A form |
 | `ui-form-success` | If a form is in an success state, it will automatically show any success message blocks. |
