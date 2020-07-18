@@ -220,6 +220,12 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-segments` | A group of segments can be formatted to appear together |
 | `ui-segments-horizontal` | A segment group can appear horizontally |
 | `ui-segments-compact` | A segment group can appear horizontally |
+| **Statistic** | |
+| `ui-statistic` | A statistic can display a value with a label above or below it. |
+| `ui-statistic-horizontal` | A statistic can present its measurement horizontally |
+| `ui-statistic-stackable` | A statistic can automatically stack rows to a single columns on mobile devices |
+| **Statistics** | |
+| `ui-statistics` | A group of statistics |
 | **Step** | |
 | `ui-step` | A single step |
 | `ui-step-completed` | A completed step |

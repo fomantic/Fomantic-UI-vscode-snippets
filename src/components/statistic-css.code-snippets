@@ -1,0 +1,61 @@
+{
+    "Fomantic-UI Default Statistic": {
+        "prefix": "ui-statistic",
+        "description": "A statistic can display a value with a label above or below it.",
+        "body": [
+            "<div class=\"ui statistic\">",
+            "    <div class=\"value\">",
+            "        ${1:5,550}",
+            "    </div>",
+            "    <div class=\"label\">",
+            "        ${2:Downloads}",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Horizontal Statistic": {
+        "prefix": "ui-statistic-horizontal",
+        "description": "A statistic can present its measurement horizontally",
+        "body": [
+            "<div class=\"ui horizontal statistic\">",
+            "    <div class=\"value\">",
+            "        ${1:5,550}",
+            "    </div>",
+            "    <div class=\"label\">",
+            "        ${2:Downloads}",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Stackable Statistic": {
+        "prefix": "ui-statistic-stackable",
+        "description": "A statistic can automatically stack rows to a single columns on mobile devices",
+        "body": [
+            "<div class=\"ui stackable statistic\">",
+            "    <div class=\"value\">",
+            "        ${1:5,550}",
+            "    </div>",
+            "    <div class=\"label\">",
+            "        ${2:Downloads}",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Default Statistics": {
+        "prefix": "ui-statistics",
+        "description": "A group of statistics",
+        "body": [
+            "<div class=\"ui statistics\">",
+            "   <div class=\"ui statistic\">",
+            "       <div class=\"value\">",
+            "           ${1:5,550}",
+            "       </div>",
+            "       <div class=\"label\">",
+            "           ${2:Downloads}",
+            "       </div>",
+            "   </div>",
+            "   $0",
+            "</div>"
+        ]
+    }
+}
