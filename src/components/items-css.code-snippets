@@ -1,0 +1,27 @@
+{
+    "Fomantic-UI Default Items": {
+        "prefix": "ui-items",
+        "description": "A group of items.",
+        "body": [
+            "<div class=\"ui items\">",
+            "    <div class=\"item\">",
+            "        ${1:<div class=\"image\">",
+            "            <img src=\"${2:/images/wireframe/image.png}\">",
+            "        </div>}",
+            "        <div class=\"content\">",
+            "            <a class=\"header\">${3:Header}</a>",
+            "            <div class=\"meta\">",
+            "                <span>${4:Description}</span>",
+            "            </div>",
+            "            <div class=\"description\">",
+            "                <p>${5:Some text}</p>",
+            "            </div>",
+            "            ${6:<div class=\"extra\">",
+            "                Additional Details",
+            "            </div>}",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    }
+}

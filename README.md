@@ -131,6 +131,8 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-input-transparent` | A transparent input has no background |
 | `ui-input-fluid` | An input can take the size of its container |
 | `ui-input-textarea` | Using the input class you can also use some features on textarea aswell |
+| **Items** | |
+| `ui-items` | A group of items. |
 | **Label** | |
 | `ui-label` | A label |
 | `ui-label-image` | A label can be formatted to emphasize an image |

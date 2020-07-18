@@ -501,7 +501,7 @@
     ]
   },
   "Fomantic-UI Default Flag CSS": {
-    "prefix": "ui-emoji",
+    "prefix": "ui-flag",
     "description": "A flag can use the two digit country code, the full name, or a common alias",
     "body": [
       "<i class=\"${0:ae} flag\"></i>$0"
@@ -948,6 +948,31 @@
     "body": [
       "<div class=\"ui input\">",
       "    <textarea>${0:Some text}</textarea>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Default Items": {
+    "prefix": "ui-items",
+    "description": "A group of items.",
+    "body": [
+      "<div class=\"ui items\">",
+      "    <div class=\"item\">",
+      "        ${1:<div class=\"image\">",
+      "            <img src=\"${2:/images/wireframe/image.png}\">",
+      "        </div>}",
+      "        <div class=\"content\">",
+      "            <a class=\"header\">${3:Header}</a>",
+      "            <div class=\"meta\">",
+      "                <span>${4:Description}</span>",
+      "            </div>",
+      "            <div class=\"description\">",
+      "                <p>${5:Some text}</p>",
+      "            </div>",
+      "            ${6:<div class=\"extra\">",
+      "                Additional Details",
+      "            </div>}",
+      "        </div>",
+      "    </div>",
       "</div>"
     ]
   },
