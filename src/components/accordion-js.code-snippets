@@ -1,0 +1,11 @@
+{
+    "Fomantic-UI Default Accordion": {
+        "prefix": "ui-accordion",
+        "description": "A standard accordion",
+        "body": [
+            "$('.ui.accordion')",
+            "    .accordion($1)",
+            ";"
+        ]
+    }
+}

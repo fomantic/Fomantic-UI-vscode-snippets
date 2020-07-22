@@ -17,6 +17,10 @@ This has a reason, if you add more snippets, will be a mess searching components
 ### CSS 
 | **Prefix** | **Description** |
 |---|---|
+| **Accordion** | |
+| `ui-accordion` | A standard accordion |
+| `ui-accordion-styled` | A styled accordion adds basic formatting |
+| `ui-accordion-fluid` | An accordion can take up the width of its container |
 | **Ad** | |
 | `ui-ad` | A standard ad |
 | `ui-ad-button` | An ad can use button ad unit size |
@@ -260,6 +264,8 @@ This has a reason, if you add more snippets, will be a mess searching components
 ### JS 
 | **Prefix** | **Description** |
 |---|---|
+| **Accordion** | |
+| `ui-accordion` | A standard accordion |
 | **Dropdown** | |
 | `ui-dropdown` | Initializes dropdown with jQuery |
 

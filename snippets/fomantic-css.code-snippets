@@ -1,4 +1,49 @@
 {
+  "Fomantic-UI Default Accordion": {
+    "prefix": "ui-accordion",
+    "description": "A standard accordion",
+    "body": [
+      "<div class=\"ui accordion\">",
+      "    <div class=\"active title\">",
+      "        <i class=\"${1:dropdown} icon\"></i>",
+      "        ${2:Some title}",
+      "    </div>",
+      "    <div class=\"active content\">",
+      "        <p>${3:Some text}</p>",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Styled Accordion": {
+    "prefix": "ui-accordion-styled",
+    "description": "A styled accordion adds basic formatting",
+    "body": [
+      "<div class=\"ui styled accordion\">",
+      "    <div class=\"active title\">",
+      "        <i class=\"${1:dropdown} icon\"></i>",
+      "        ${2:Some title}",
+      "    </div>",
+      "    <div class=\"active content\">",
+      "        <p>${3:Some text}</p>",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Accordion": {
+    "prefix": "ui-accordion-fluid",
+    "description": "An accordion can take up the width of its container",
+    "body": [
+      "<div class=\"ui fluid accordion\">",
+      "    <div class=\"active title\">",
+      "        <i class=\"${1:dropdown} icon\"></i>",
+      "        ${2:Some title}",
+      "    </div>",
+      "    <div class=\"active content\">",
+      "        <p>${3:Some text}</p>",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Advertisement": {
     "prefix": "ui-ad",
     "description": "A standard ad",

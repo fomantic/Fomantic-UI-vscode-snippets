@@ -1,4 +1,13 @@
 {
+  "Fomantic-UI Default Accordion": {
+    "prefix": "ui-container",
+    "description": "A standard accordion",
+    "body": [
+      "$('.ui.accordion')",
+      "    .accordion($1)",
+      ";"
+    ]
+  },
   "Fomantic-UI Default Dropdown JS": {
     "prefix": "ui-dropdown",
     "description": "Initializes dropdown with jQuery",
