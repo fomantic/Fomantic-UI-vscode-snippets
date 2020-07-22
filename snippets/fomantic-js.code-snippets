@@ -13,7 +13,7 @@
     "description": "A standard calendar",
     "body": [
       "$('.ui.calendar')",
-      "    .calendar()",
+      "    .calendar($1)",
       ";"
     ]
   },
