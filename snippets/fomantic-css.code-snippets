@@ -263,6 +263,38 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Calendar": {
+    "prefix": "ui-calendar",
+    "description": "A standard calendar",
+    "body": [
+      "<div class=\"ui calendar\" id=\"${1:standard_calendar}\">",
+      "    <div class=\"ui input left icon\">",
+      "        <i class=\"calendar icon\"></i>",
+      "        <input type=\"text\" placeholder=\"${2:Date/Time}\">",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Inline Calendar": {
+    "prefix": "ui-calendar",
+    "description": "An inline calendar isn't shown in a popup",
+    "body": [
+      "<div class=\"ui calendar\" id=\"${1:inline_calendar}\">",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Calendar": {
+    "prefix": "ui-calendar-disabled",
+    "description": "A disabled calendar does not allow user interaction",
+    "body": [
+      "<div class=\"ui disabled calendar\">",
+      "    <div class=\"ui input left icon\">",
+      "        <i class=\"calendar icon\"></i>",
+      "        <input type=\"text\" placeholder=\"${2:Date/Time}\">",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Card": {
     "prefix": "ui-card",
     "description": "A single card.",

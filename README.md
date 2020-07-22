@@ -49,6 +49,10 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-buttons` | Buttons can exist together as a group |
 | `ui-buttons-icon` | Button groups can show groups of icons |
 | `ui-buttons-conditionals` | Button groups can contain conditionals |
+| **Calendar** | |
+| `ui-calendar` | A standard calendar |
+| `ui-calendar` | An inline calendar isn't shown in a popup |
+| `ui-calendar-disabled` | A disabled calendar does not allow user interaction |
 | **Card** | |
 | `ui-card` | A single card. |
 | `ui-card-image` | A card can contain an image |
@@ -266,6 +270,8 @@ This has a reason, if you add more snippets, will be a mess searching components
 |---|---|
 | **Accordion** | |
 | `ui-accordion` | A standard accordion |
+| **Calendar** | |
+| `ui-calendar` | A standard calendar |
 | **Dropdown** | |
 | `ui-dropdown` | Initializes dropdown with jQuery |
 

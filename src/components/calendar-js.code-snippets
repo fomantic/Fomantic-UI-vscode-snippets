@@ -1,0 +1,11 @@
+{
+    "Fomantic-UI Default Calendar": {
+        "prefix": "ui-calendar",
+        "description": "A standard calendar",
+        "body": [
+            "$('.ui.calendar')",
+            "    .calendar()",
+            ";"
+        ]
+    }
+}

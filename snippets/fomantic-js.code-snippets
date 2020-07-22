@@ -1,10 +1,19 @@
 {
   "Fomantic-UI Default Accordion": {
-    "prefix": "ui-container",
+    "prefix": "ui-accordion",
     "description": "A standard accordion",
     "body": [
       "$('.ui.accordion')",
       "    .accordion($1)",
+      ";"
+    ]
+  },
+  "Fomantic-UI Default Calendar": {
+    "prefix": "ui-calendar",
+    "description": "A standard calendar",
+    "body": [
+      "$('.ui.calendar')",
+      "    .calendar()",
       ";"
     ]
   },
