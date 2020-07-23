@@ -64,6 +64,15 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-card-stackable` | A group of cards can double its column width for mobile |
 | **Cards** | |
 | `ui-cards` | A group of cards. |
+| **Checkbox** | |
+| `ui-checkbox` | A standard checkbox |
+| `ui-checkbox-radio` | A checkbox can be formatted as a radio element. This means it is an exclusive option. |
+| `ui-checkbox-slider` | A checkbox can be formatted to emphasize the current selection state |
+| `ui-checkbox-toggle` | A checkbox can be formatted to show an on or off choice |
+| `ui-checkbox-read-only` | A checkbox can be read-only and unable to change states |
+| `ui-checkbox-read-only` | A checkbox can be checked |
+| `ui-checkbox-disabled` | A checkbox can be read-only and unable to change states |
+| `ui-checkbox-fitted` | A fitted checkbox does not leave padding for a label |
 | **Comments** | |
 | `ui-comments` | A basic list of comments |
 | `ui-comments-threaded` | A comment list can be threaded to showing the relationship between conversations |
@@ -272,6 +281,8 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-accordion` | A standard accordion |
 | **Calendar** | |
 | `ui-calendar` | A standard calendar |
+| **Checkbox** | |
+| `ui-checkbox` | A standard checkbox |
 | **Dropdown** | |
 | `ui-dropdown` | Initializes dropdown with jQuery |
 

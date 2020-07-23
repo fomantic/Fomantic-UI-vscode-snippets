@@ -427,6 +427,76 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Checkbox": {
+    "prefix": "ui-checkbox",
+    "description": "A standard checkbox",
+    "body": [
+      "<div class=\"ui checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Radio Checkbox": {
+    "prefix": "ui-checkbox-radio",
+    "description": "A checkbox can be formatted as a radio element. This means it is an exclusive option.",
+    "body": [
+      "<div class=\"ui radio checkbox\">",
+      "    <input type=\"radio\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Slider Checkbox": {
+    "prefix": "ui-checkbox-slider",
+    "description": "A checkbox can be formatted to emphasize the current selection state",
+    "body": [
+      "<div class=\"ui slider checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Toggle Checkbox": {
+    "prefix": "ui-checkbox-toggle",
+    "description": "A checkbox can be formatted to show an on or off choice",
+    "body": [
+      "<div class=\"ui toggle checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Read-Only Checkbox": {
+    "prefix": "ui-checkbox-read-only",
+    "description": "A checkbox can be read-only and unable to change states",
+    "body": [
+      "<div class=\"ui read-only checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Checked Checkbox": {
+    "prefix": "ui-checkbox-read-only",
+    "description": "A checkbox can be checked",
+    "body": [
+      "<div class=\"ui checked checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Checkbox": {
+    "prefix": "ui-checkbox-disabled",
+    "description": "A checkbox can be read-only and unable to change states",
+    "body": [
+      "<div class=\"ui disabled checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Comment": {
     "prefix": "ui-comments",
     "description": "A basic list of comments",

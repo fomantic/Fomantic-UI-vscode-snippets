@@ -1,0 +1,11 @@
+{
+    "Fomantic-UI Default Checkbox": {
+        "prefix": "ui-checkbox",
+        "description": "A standard checkbox",
+        "body": [
+            "$('.ui.checkbox')",
+            "    .checkbox($1)",
+            ";"
+        ]
+    }
+}
