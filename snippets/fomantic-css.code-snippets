@@ -670,22 +670,151 @@
   },
   "Fomantic-UI Default Dropdown CSS": {
     "prefix": "ui-dropdown",
-    "description": "Creates a default dropdown",
+    "description": "A dropdown",
     "body": [
       "<div class=\"ui dropdown\">",
-      "   <div class=\"text\">${0:File}</div>",
+      "   <div class=\"text\">${1:File}</div>",
       "   <i class=\"dropdown icon\"></i>",
-      "   <div class=\"menu\">",
-      "      <div class=\"item\">New</div>",
-      "      <div class=\"item\">",
-      "         <span class=\"description\">ctrl + o</span>",
-      "         Open...",
-      "      </div>",
-      "      <div class=\"item\">",
-      "         <span class=\"description\">ctrl + s</span>",
-      "         Save as...",
-      "      </div>",
-      "   </div>",
+      "   $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Inline Dropdown CSS": {
+    "prefix": "ui-dropdown-inline",
+    "description": "A dropdown can be formatted to appear inline in other content",
+    "body": [
+      "<div class=\"ui inline dropdown\">",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Pointing Dropdown CSS": {
+    "prefix": "ui-dropdown-pointing",
+    "description": "A dropdown can be formatted so that its menu is pointing",
+    "body": [
+      "<div class=\"ui pointing dropdown\">",
+      "    <input type=\"hidden\" name=\"${1:gender}\">",
+      "    <i class=\"dropdown icon\"></i>",
+      "    <div class=\"default text\">${2:Gender}</div>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Simple Dropdown CSS": {
+    "prefix": "ui-dropdown-simple",
+    "description": "A simple dropdown can open without Javascript",
+    "body": [
+      "<div class=\"ui simple dropdown\">",
+      "    <input type=\"hidden\" name=\"${1:gender}\">",
+      "    <i class=\"dropdown icon\"></i>",
+      "    <div class=\"default text\">${2:Gender}</div>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Loading Dropdown CSS": {
+    "prefix": "ui-dropdown-loading",
+    "description": "A dropdown can show that it is currently loading data",
+    "body": [
+      "<div class=\"ui loading dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Active Dropdown CSS": {
+    "prefix": "ui-dropdown-active",
+    "description": "An active dropdown has its menu open",
+    "body": [
+      "<div class=\"ui active dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Dropdown CSS": {
+    "prefix": "ui-dropdown-disabled",
+    "description": "A disabled dropdown menu or item does not allow user interaction",
+    "body": [
+      "<div class=\"ui disabled dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Scrolling Dropdown CSS": {
+    "prefix": "ui-dropdown-scroling",
+    "description": "A dropdown can have its menu scroll",
+    "body": [
+      "<div class=\"ui scroling dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Compact Dropdown CSS": {
+    "prefix": "ui-dropdown-compact",
+    "description": "A compact dropdown has no minimum width",
+    "body": [
+      "<div class=\"ui compact dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Dropdown CSS": {
+    "prefix": "ui-dropdown-fluid",
+    "description": "A dropdown can take the full width of its parent",
+    "body": [
+      "<div class=\"ui fluid dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Selection Dropdown CSS": {
+    "prefix": "ui-dropdown-selection",
+    "description": "A dropdown can be used to select between choices in a form",
+    "body": [
+      "<div class=\"ui selection dropdown\">",
+      "    <input type=\"hidden\" name=\"${1:gender}\">",
+      "    <i class=\"dropdown icon\"></i>",
+      "    <div class=\"default text\">${2:Gender}</div>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Search Selection Dropdown CSS": {
+    "prefix": "ui-dropdown-selection-search",
+    "description": "A selection dropdown can allow a user to search through a large list of choices.",
+    "body": [
+      "<div class=\"ui search selection dropdown\">",
+      "    <input type=\"hidden\" name=\"${1:gender}\">",
+      "    <i class=\"dropdown icon\"></i>",
+      "    <div class=\"default text\">${2:Gender}</div>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Clearable Selection Dropdown CSS": {
+    "prefix": "ui-dropdown-selection-clearable",
+    "description": "A clearable selection dropdown can allow a user to cancel to cancel a previous selection",
+    "body": [
+      "<div class=\"ui clearable selection dropdown\">",
+      "    <input type=\"hidden\" name=\"${1:gender}\">",
+      "    <i class=\"dropdown icon\"></i>",
+      "    <div class=\"default text\">${2:Gender}</div>",
+      "    $0",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Loading Selection Dropdown CSS": {
+    "prefix": "ui-dropdown-selection-loading",
+    "description": "A dropdown can show that it is currently loading data",
+    "body": [
+      "<div class=\"ui loading selection dropdown\">",
+      "    Dropdown <i class=\"dropdown icon\"></i>",
+      "    $0",
       "</div>"
     ]
   },

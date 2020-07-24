@@ -93,7 +93,20 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-divider-section` | A divider can provide greater margins to divide sections of content |
 | `ui-divider-clearing` | A divider can clear the contents above it |
 | **Dropdown** | |
-| `ui-dropdown` | Creates a default dropdown |
+| `ui-dropdown` | A dropdown |
+| `ui-dropdown-inline` | A dropdown can be formatted to appear inline in other content |
+| `ui-dropdown-pointing` | A dropdown can be formatted so that its menu is pointing |
+| `ui-dropdown-simple` | A simple dropdown can open without Javascript |
+| `ui-dropdown-loading` | A dropdown can show that it is currently loading data |
+| `ui-dropdown-active` | An active dropdown has its menu open |
+| `ui-dropdown-disabled` | A disabled dropdown menu or item does not allow user interaction |
+| `ui-dropdown-scroling` | A dropdown can have its menu scroll |
+| `ui-dropdown-compact` | A compact dropdown has no minimum width |
+| `ui-dropdown-fluid` | A dropdown can take the full width of its parent |
+| `ui-dropdown-selection` | A dropdown can be used to select between choices in a form |
+| `ui-dropdown-selection-search` | A selection dropdown can allow a user to search through a large list of choices. |
+| `ui-dropdown-selection-clearable` | A clearable selection dropdown can allow a user to cancel to cancel a previous selection |
+| `ui-dropdown-selection-loading` | A dropdown can show that it is currently loading data |
 | **Emoji** | |
 | `ui-emoji` | You can provide the emoji shortname with or without colons |
 | `ui-emoji` | A flag can use the two digit country code, the full name, or a common alias |
