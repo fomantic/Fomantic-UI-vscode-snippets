@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default eMBED": {
+        "prefix": "ui-embed",
+        "description": "Creates a container",
+        "body": [
+            "$('${1:.ui.embed}').embed($0);"
+        ]
+    }
+}

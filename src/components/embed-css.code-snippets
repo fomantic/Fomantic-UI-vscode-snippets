@@ -1,0 +1,16 @@
+{
+    "Fomantic-UI Default Embed": {
+        "prefix": "ui-embed",
+        "description": "An embed can display any web content",
+        "body": [
+            "<div class=\"ui embed\">$0</div>"
+        ]
+    },
+    "Fomantic-UI Simple Embed": {
+        "prefix": "ui-embed-simple",
+        "description": "An embed can display any web content with no JavaScript",
+        "body": [
+            "<div class=\"ui embed\" data-source=\"${1:youtube}\" data-id=\"${2:O6Xo21L0ybE}\" data-placeholder=\"${3:/images/image-16by9.png}\">$0</div>"
+        ]
+    }
+}

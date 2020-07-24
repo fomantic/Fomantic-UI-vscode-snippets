@@ -107,6 +107,8 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-dropdown-selection-search` | A selection dropdown can allow a user to search through a large list of choices. |
 | `ui-dropdown-selection-clearable` | A clearable selection dropdown can allow a user to cancel to cancel a previous selection |
 | `ui-dropdown-selection-loading` | A dropdown can show that it is currently loading data |
+| **Embed** | |
+| `ui-embed` | Creates a container |
 | **Emoji** | |
 | `ui-emoji` | You can provide the emoji shortname with or without colons |
 | `ui-emoji` | A flag can use the two digit country code, the full name, or a common alias |
@@ -306,5 +308,7 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-dimmer` | A simple dimmer displays no content |
 | **Dropdown** | |
 | `ui-dropdown` | Initializes dropdown with jQuery |
+| **Embed** | |
+| `ui-embed` | Creates a container |
 
 **Enjoy!**
