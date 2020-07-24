@@ -79,6 +79,12 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-comments-minimal` | Comments can hide extra information unless a user shows intent to interact with a comment. |
 | **Container** | |
 | `ui-container` | Creates a container |
+| **Dimmer** | |
+| `ui-dimmer` | A dimmer can display or hide content |
+| `ui-dimmer-page` | A dimmer can be formatted to be fixed to the page |
+| `ui-dimmer-active` | An active dimmer will dim its parent container |
+| `ui-dimmer-disabled` | A disabled dimmer cannot be activated |
+| `ui-dimmer-simple` | A dimmer can be controlled without Javascript |
 | **Divider** | |
 | `ui-divider` | Creates a divider |
 | `ui-divider-vertical` | Creates a vertical divider |
@@ -283,6 +289,8 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-calendar` | A standard calendar |
 | **Checkbox** | |
 | `ui-checkbox` | A standard checkbox |
+| **Dimmer** | |
+| `ui-dimmer` | A simple dimmer displays no content |
 | **Dropdown** | |
 | `ui-dropdown` | Initializes dropdown with jQuery |
 

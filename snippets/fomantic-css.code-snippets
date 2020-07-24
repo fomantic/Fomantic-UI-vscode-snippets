@@ -497,6 +497,16 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Fitted Checkbox": {
+    "prefix": "ui-checkbox-fitted",
+    "description": "A fitted checkbox does not leave padding for a label",
+    "body": [
+      "<div class=\"ui fitted checkbox\">",
+      "    <input type=\"checkbox\" name=\"${1:example}\">",
+      "    <label>${2:Some label}</label>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Comment": {
     "prefix": "ui-comments",
     "description": "A basic list of comments",
@@ -553,6 +563,61 @@
     "description": "Creates a container",
     "body": [
       "<div class=\"ui container\">$0</div>"
+    ]
+  },
+  "Fomantic-UI Default Dimmer": {
+    "prefix": "ui-dimmer",
+    "description": "A dimmer can display or hide content",
+    "body": [
+      "<div class=\"ui dimmer\">",
+      "    <div class=\"content\">",
+      "        ${1:Some text}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Page Dimmer": {
+    "prefix": "ui-dimmer-page",
+    "description": "A dimmer can be formatted to be fixed to the page",
+    "body": [
+      "<div class=\"ui page dimmer\">",
+      "    <div class=\"content\">",
+      "        ${1:Some text}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Active Dimmer": {
+    "prefix": "ui-dimmer-active",
+    "description": "An active dimmer will dim its parent container",
+    "body": [
+      "<div class=\"ui active dimmer\">",
+      "    <div class=\"content\">",
+      "        ${1:Some text}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Dimmer": {
+    "prefix": "ui-dimmer-disabled",
+    "description": "A disabled dimmer cannot be activated",
+    "body": [
+      "<div class=\"ui disabled dimmer\">",
+      "    <div class=\"content\">",
+      "        ${1:Some text}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Simple Dimmer": {
+    "prefix": "ui-dimmer-simple",
+    "description": "A dimmer can be controlled without Javascript",
+    "body": [
+      "<div class=\"ui simple dimmer\">",
+      "    <div class=\"content\">",
+      "        ${1:Some text}",
+      "    </div>",
+      "</div>"
     ]
   },
   "Fomantic-UI Default Divider": {

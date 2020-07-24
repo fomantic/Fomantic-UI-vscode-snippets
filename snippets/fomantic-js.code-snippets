@@ -17,6 +17,22 @@
       ";"
     ]
   },
+  "Fomantic-UI Default Checkbox": {
+    "prefix": "ui-checkbox",
+    "description": "A standard checkbox",
+    "body": [
+      "$('.ui.checkbox')",
+      "    .checkbox($1)",
+      ";"
+    ]
+  },
+  "Fomantic-UI Default Dimmer": {
+    "prefix": "ui-dimmer",
+    "description": "A simple dimmer displays no content",
+    "body": [
+      "$('${1:.segment}').dimmer($1);"
+    ]
+  },
   "Fomantic-UI Default Dropdown JS": {
     "prefix": "ui-dropdown",
     "description": "Initializes dropdown with jQuery",

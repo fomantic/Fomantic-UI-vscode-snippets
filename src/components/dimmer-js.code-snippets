@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Dimmer": {
+        "prefix": "ui-dimmer",
+        "description": "A simple dimmer displays no content",
+        "body": [
+            "$('${1:.segment}').dimmer($1);"
+        ]
+    }
+}
