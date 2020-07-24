@@ -3,41 +3,35 @@
     "prefix": "ui-accordion",
     "description": "A standard accordion",
     "body": [
-      "$('.ui.accordion')",
-      "    .accordion($1)",
-      ";"
+      "$('${1:.ui.accordion}').accordion($2);"
     ]
   },
   "Fomantic-UI Default Calendar": {
     "prefix": "ui-calendar",
     "description": "A standard calendar",
     "body": [
-      "$('.ui.calendar')",
-      "    .calendar($1)",
-      ";"
+      "$('${1:.ui.calendar}').calendar($2);"
     ]
   },
   "Fomantic-UI Default Checkbox": {
     "prefix": "ui-checkbox",
     "description": "A standard checkbox",
     "body": [
-      "$('.ui.checkbox')",
-      "    .checkbox($1)",
-      ";"
+      "$('${1:.ui.checkbox}').checkbox($2);"
     ]
   },
   "Fomantic-UI Default Dimmer": {
     "prefix": "ui-dimmer",
     "description": "A simple dimmer displays no content",
     "body": [
-      "$('${1:.segment}').dimmer($1);"
+      "$('${1:.segment}').dimmer($2);"
     ]
   },
   "Fomantic-UI Default Dropdown JS": {
     "prefix": "ui-dropdown",
     "description": "Initializes dropdown with jQuery",
     "body": [
-      "$('.ui.dropdown').dropdown($1);"
+      "$('${1:.ui.dropdown}').dropdown($2);"
     ]
   }
 }

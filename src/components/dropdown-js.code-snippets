@@ -3,7 +3,7 @@
         "prefix": "ui-dropdown",
         "description": "Initializes dropdown with jQuery",
         "body": [
-            "$('.ui.dropdown').dropdown($1);"
+            "$('${1:.ui.dropdown}').dropdown($2);"
         ]
     }
 }

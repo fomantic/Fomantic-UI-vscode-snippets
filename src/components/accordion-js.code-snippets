@@ -3,9 +3,7 @@
         "prefix": "ui-accordion",
         "description": "A standard accordion",
         "body": [
-            "$('.ui.accordion')",
-            "    .accordion($1)",
-            ";"
+            "$('${1:.ui.accordion}').accordion($2);"
         ]
     }
 }

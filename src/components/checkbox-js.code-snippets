@@ -3,9 +3,7 @@
         "prefix": "ui-checkbox",
         "description": "A standard checkbox",
         "body": [
-            "$('.ui.checkbox')",
-            "    .checkbox($1)",
-            ";"
+            "$('${1:.ui.checkbox}').checkbox($2);"
         ]
     }
 }

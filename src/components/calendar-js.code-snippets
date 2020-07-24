@@ -3,9 +3,7 @@
         "prefix": "ui-calendar",
         "description": "A standard calendar",
         "body": [
-            "$('.ui.calendar')",
-            "    .calendar($1)",
-            ";"
+            "$('${1:.ui.calendar}').calendar($2);"
         ]
     }
 }
