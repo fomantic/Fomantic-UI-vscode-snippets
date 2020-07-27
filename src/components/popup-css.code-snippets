@@ -1,0 +1,29 @@
+{
+    "Fomantic-UI Default Popup": {
+        "prefix": "ui-popup",
+        "description": "Creates a popup",
+        "body": [
+            "<div class=\"ui popup\">",
+            "    <div class=\"header\">${1:User Rating}</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Fluid Popup": {
+        "prefix": "ui-popup-fluid",
+        "description": "A fluid popup will take up the entire width of its offset container",
+        "body": [
+            "<div class=\"ui fluid popup\">",
+            "    <div class=\"header\">${1:User Rating}</div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Flowing Popup": {
+        "prefix": "ui-popup-flowing",
+        "description": "A popup can have no maximum width and continue to flow to fit its content",
+        "body": [
+            "<div class=\"ui flowing popup\">",
+            "    <div class=\"header\">${1:User Rating}</div>",
+            "</div>"
+        ]
+    }
+}

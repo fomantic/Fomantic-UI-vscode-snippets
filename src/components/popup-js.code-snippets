@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Popup": {
+        "prefix": "ui-popup",
+        "description": "Creates a popup",
+        "body": [
+            "$('.ui.${1:popup}').popup($0);"
+        ]
+    }
+}

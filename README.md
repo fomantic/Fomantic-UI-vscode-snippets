@@ -232,6 +232,10 @@ This has a reason, if you add more snippets, will be a mess searching components
 | **Placeholder** | |
 | `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
 | `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
+| **Popup** | |
+| `ui-popup` | Creates a popup |
+| `ui-popup-fluid` | A fluid popup will take up the entire width of its offset container |
+| `ui-popup-flowing` | A popup can have no maximum width and continue to flow to fit its content |
 | **Rail** | |
 | `ui-rail` | A rail can be presented on the left or right side of a container |
 | `ui-rail-internal` | A rail can attach itself to the inside of a container |
@@ -316,5 +320,7 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-embed` | Creates a container |
 | **Modal** | |
 | `ui-modal` | A standard modal |
+| **Popup** | |
+| `ui-popup` | Creates a popup |
 
 **Enjoy!**
