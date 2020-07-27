@@ -225,6 +225,10 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-message-floating` | A message can float above content that it is related to |
 | `ui-message-compact` | A message can only take up the width of its content. |
 | `ui-message-attached` | A message can be formatted to attach itself to other content |
+| **Modal** | |
+| `ui-modal` | A standard modal |
+| `ui-modal-basic` | A modal can reduce its complexity |
+| `ui-modal-active` | An active modal is visible on the page |
 | **Placeholder** | |
 | `ui-placeholder` | A placeholder is used to reserve space for content that soon will appear in a layout. |
 | `ui-placeholder-fluid` | A fluid placeholder takes up the width of its container |
@@ -310,5 +314,7 @@ This has a reason, if you add more snippets, will be a mess searching components
 | `ui-dropdown` | Initializes dropdown with jQuery |
 | **Embed** | |
 | `ui-embed` | Creates a container |
+| **Modal** | |
+| `ui-modal` | A standard modal |
 
 **Enjoy!**

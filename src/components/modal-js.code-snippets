@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Modal": {
+        "prefix": "ui-modal",
+        "description": "A standard modal",
+        "body": [
+            "$('.ui.modal').modal('${0:show}');"
+        ]
+    }
+}

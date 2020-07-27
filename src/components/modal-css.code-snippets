@@ -1,0 +1,47 @@
+{
+    "Fomantic-UI Default Modal": {
+        "prefix": "ui-modal",
+        "description": "A standard modal",
+        "body": [
+            "<div class=\"ui modal\">",
+            "    <i class=\"close icon\"></i>",
+            "    <div class=\"header\">",
+            "        ${1:Some header}",
+            "    </div>",
+            "    <div class=\"content\">",
+            "        ${2:Some Text}",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Basic Modal": {
+        "prefix": "ui-modal-basic",
+        "description": "A modal can reduce its complexity",
+        "body": [
+            "<div class=\"ui basic modal\">",
+            "    <i class=\"close icon\"></i>",
+            "    <div class=\"header\">",
+            "        ${1:Some header}",
+            "    </div>",
+            "    <div class=\"content\">",
+            "        ${2:Some Text}",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Basica Modal": {
+        "prefix": "ui-modal-active",
+        "description": "An active modal is visible on the page",
+        "body": [
+            "<div class=\"ui active modal\">",
+            "    <i class=\"close icon\"></i>",
+            "    <div class=\"header\">",
+            "        ${1:Some header}",
+            "    </div>",
+            "    <div class=\"content\">",
+            "        ${2:Some Text}",
+            "    </div>",
+            "</div>"
+        ]
+    }
+}

@@ -40,5 +40,12 @@
     "body": [
       "$('${1:.ui.embed}').embed($0);"
     ]
+  },
+  "Fomantic-UI Default Modal": {
+    "prefix": "ui-modal",
+    "description": "A standard modal",
+    "body": [
+      "$('.ui.modal').modal('${0:show}');"
+    ]
   }
 }
