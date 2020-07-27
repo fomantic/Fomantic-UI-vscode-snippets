@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "strict": true,
+        "types": [
+            "node"
+        ],
+    },
+    "include": [
+        "src/script/*"
+    ],
+}
