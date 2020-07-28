@@ -241,6 +241,12 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-popup` | Creates a popup |
 | `ui-popup-fluid` | A fluid popup will take up the entire width of its offset container |
 | `ui-popup-flowing` | A popup can have no maximum width and continue to flow to fit its content |
+| **Progress** | |
+| `ui-progress` | A standard progress bar |
+| `ui-progress-indicating` | An indicating progress bar visually indicates the current level of progress of a task |
+| `ui-progress-active` | A progress bar can show activity |
+| `ui-progress-disabled` | A progress bar can be disabled |
+| `ui-progress-indeterminate` | A progress bar can be shown in different indeterminate states. |
 | **Rail** | |
 | `ui-rail` | A rail can be presented on the left or right side of a container |
 | `ui-rail-internal` | A rail can attach itself to the inside of a container |
@@ -327,5 +333,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-modal` | A standard modal |
 | **Popup** | |
 | `ui-popup` | Creates a popup |
+| **Progress** | |
+| `ui-progress` | A standard progress bar |
 
 **Enjoy!**

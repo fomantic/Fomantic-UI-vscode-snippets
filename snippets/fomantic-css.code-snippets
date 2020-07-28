@@ -1901,6 +1901,61 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Progress": {
+    "prefix": "ui-progress",
+    "description": "A standard progress bar",
+    "body": [
+      "<div class=\"ui progress\">",
+      "    <div class=\"bar\">",
+      "        ${1:<div class=\"progress\"></div>}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Indicating Progress": {
+    "prefix": "ui-progress-indicating",
+    "description": "An indicating progress bar visually indicates the current level of progress of a task",
+    "body": [
+      "<div class=\"ui indicating progress\">",
+      "    <div class=\"bar\">",
+      "        ${1:<div class=\"progress\"></div>}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Active Progress": {
+    "prefix": "ui-progress-active",
+    "description": "A progress bar can show activity",
+    "body": [
+      "<div class=\"ui active progress\">",
+      "    <div class=\"bar\">",
+      "        ${1:<div class=\"progress\"></div>}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Progress": {
+    "prefix": "ui-progress-disabled",
+    "description": "A progress bar can be disabled",
+    "body": [
+      "<div class=\"ui disabled progress\">",
+      "    <div class=\"bar\">",
+      "        ${1:<div class=\"progress\"></div>}",
+      "    </div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Indeterminate Progress": {
+    "prefix": "ui-progress-indeterminate",
+    "description": "A progress bar can be shown in different indeterminate states.",
+    "body": [
+      "<div class=\"ui indeterminate progress\">",
+      "    <div class=\"bar\">",
+      "        ${1:<div class=\"progress\"></div>}",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Rail": {
     "prefix": "ui-rail",
     "description": "A rail can be presented on the left or right side of a container",

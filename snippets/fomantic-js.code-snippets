@@ -54,5 +54,12 @@
     "body": [
       "$('.ui.${1:popup}').popup($0);"
     ]
+  },
+  "Fomantic-UI Default Progress": {
+    "prefix": "ui-progress",
+    "description": "A standard progress bar",
+    "body": [
+      "$('{$1:.ui.progress}').progress($2);"
+    ]
   }
 }
