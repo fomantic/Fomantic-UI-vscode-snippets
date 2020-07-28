@@ -12,7 +12,7 @@ This has a reason, if you add more snippets, will be a mess searching components
 
 ![demo](https://github.com/fomantic/Fomantic-UI-vscode-snippets/blob/master/images/demo.gif)
 
-## How to work in this repo
+## How to work on this repo
 Add or edit files in `src/components`.\
 Run `npm start` to compile changes on `snippets` folder.\
 Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-UI-vscode-snippets/blob/master/vsc-extension-quickstart.md) to learn how to try and debug your code.\
