@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Stiky": {
+        "prefix": "ui-stiky",
+        "description": "Sticky content stays fixed to the browser viewport while another column of content is visible on the page.",
+        "body": [
+            "$('${1:.ui.sticky}').sticky($2);"
+        ]
+    }
+}

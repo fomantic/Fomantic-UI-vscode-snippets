@@ -323,6 +323,8 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-steps-unstackable` | A step can prevent itself from stacking on mobile |
 | `ui-steps-fluid` | A fluid step takes up the width of its container |
 | `ui-steps-attached` | Steps can be attached to other elements |
+| **Stiky** | |
+| `ui-stiky` | Sticky content stays fixed to the browser viewport while another column of content is visible on the page. |
 | **Table** | |
 | `ui-table` | A standard table |
 | `ui-table-definition` | A table may be formatted to emphasize a first column that defines a rows content |
@@ -372,5 +374,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-sidebar` | Creates a sidebar |
 | **Slider** | |
 | `ui-slider` | Creates a slider |
+| **Stiky** | |
+| `ui-stiky` | Sticky content stays fixed to the browser viewport while another column of content is visible on the page. |
 
 **Enjoy!**
