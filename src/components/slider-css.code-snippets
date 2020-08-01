@@ -1,0 +1,51 @@
+{
+    "Fomantic-UI Default Slider": {
+        "prefix": "ui-slider",
+        "description": "Creates a slider",
+        "body": [
+            "<div class=\"ui slider\"></div>"
+        ]
+    },
+    "Fomantic-UI Labeled Slider": {
+        "prefix": "ui-slider-labeled",
+        "description": "A slider that show its labels",
+        "body": [
+            "<div class=\"ui labeled slider\"></div>"
+        ]
+    },
+    "Fomantic-UI Labeled Ticked Slider": {
+        "prefix": "ui-slider-labeled-ticked",
+        "description": "A slider that show its labels and ticks",
+        "body": [
+            "<div class=\"ui labeled ticked slider\"></div>"
+        ]
+    },
+    "Fomantic-UI Range Slider": {
+        "prefix": "ui-slider-range",
+        "description": "A range slider which allow you to select a range between two values",
+        "body": [
+            "<div class=\"ui range slider\"></div>"
+        ]
+    },
+    "Fomantic-UI Disabled Slider": {
+        "prefix": "ui-slider-disabled",
+        "description": "A slider can appear disabled",
+        "body": [
+            "<div class=\"ui disabled slider\"></div>"
+        ]
+    },
+    "Fomantic-UI Reversed Slider": {
+        "prefix": "ui-slider-disabled",
+        "description": "A slider can be reversed",
+        "body": [
+            "<div class=\"ui reversed slider\"></div>"
+        ]
+    },
+    "Fomantic-UI Vertical Slider": {
+        "prefix": "ui-slider-vertical",
+        "description": "A slider can be vertical",
+        "body": [
+            "<div class=\"ui vertical slider\"></div>"
+        ]
+    }
+}

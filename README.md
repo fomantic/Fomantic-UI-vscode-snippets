@@ -296,6 +296,14 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-sidebar` | Creates a sidebar |
 | `ui-sidebar-visible` | A sidebar can be visible on the page |
 | `ui-sidebar-dimmed` | A pusher can be dimmed |
+| **Slider** | |
+| `ui-slider` | Creates a slider |
+| `ui-slider-labeled` | A slider that show its labels |
+| `ui-slider-labeled-ticked` | A slider that show its labels and ticks |
+| `ui-slider-range` | A range slider which allow you to select a range between two values |
+| `ui-slider-disabled` | A slider can appear disabled |
+| `ui-slider-disabled` | A slider can be reversed |
+| `ui-slider-vertical` | A slider can be vertical |
 | **Statistic** | |
 | `ui-statistic` | A statistic can display a value with a label above or below it. |
 | `ui-statistic-horizontal` | A statistic can present its measurement horizontally |
@@ -362,5 +370,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-shape` | A shape is a three dimensional object including any flat content as a side. |
 | **Sidebar** | |
 | `ui-sidebar` | Creates a sidebar |
+| **Slider** | |
+| `ui-slider` | Creates a slider |
 
 **Enjoy!**

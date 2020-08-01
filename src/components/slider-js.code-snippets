@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Slider": {
+        "prefix": "ui-slider",
+        "description": "Creates a slider",
+        "body": [
+            "$('${1:.ui.slider}').slider($2);"
+        ]
+    }
+}
