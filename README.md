@@ -381,5 +381,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-stiky` | Sticky content stays fixed to the browser viewport while another column of content is visible on the page. |
 | **Tabular** | |
 | `ui-tabular` | Creates a tabular |
+| **Toast** | |
+| `ui-toast` |  minimal toast will just display a message. |
 
 **Enjoy!**

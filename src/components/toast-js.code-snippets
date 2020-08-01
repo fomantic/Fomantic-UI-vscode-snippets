@@ -1,0 +1,11 @@
+{
+    "Fomantic-UI Default Toast": {
+        "prefix": "ui-toast",
+        "description": " minimal toast will just display a message.",
+        "body": [
+            "$('${1:body}').toast({",
+            "    message: '${2:Some text!}',$0",
+            "});"
+        ]
+    }
+}
