@@ -3,7 +3,7 @@
         "prefix": "ui-popup",
         "description": "Creates a popup",
         "body": [
-            "$('.ui.${1:popup}').popup($0);"
+            "$('${1:.ui.popup}').popup($2);"
         ]
     }
 }

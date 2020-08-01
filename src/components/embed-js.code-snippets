@@ -3,7 +3,7 @@
         "prefix": "ui-embed",
         "description": "Creates a container",
         "body": [
-            "$('${1:.ui.embed}').embed($0);"
+            "$('${1:.ui.embed}').embed($2);"
         ]
     }
 }

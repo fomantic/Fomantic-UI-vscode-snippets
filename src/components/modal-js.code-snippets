@@ -3,7 +3,7 @@
         "prefix": "ui-modal",
         "description": "A standard modal",
         "body": [
-            "$('.ui.modal').modal('${0:show}');"
+            "$('${1:.ui.modal}').modal('${2:show}');"
         ]
     }
 }
