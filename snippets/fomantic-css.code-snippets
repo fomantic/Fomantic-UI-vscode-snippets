@@ -2088,6 +2088,66 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Search": {
+    "prefix": "ui-search",
+    "description": "A search can display a set of results",
+    "body": [
+      "<div class=\"ui search\">",
+      "    <input class=\"prompt\" type=\"text\" placeholder=\"${1:Common text...}\">",
+      "    <div class=\"results\"></div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Category Search": {
+    "prefix": "ui-search-category",
+    "description": "A search can display results from remote content ordered by categories",
+    "body": [
+      "<div class=\"ui category search\">",
+      "    <input class=\"prompt\" type=\"text\" placeholder=\"${1:Common text...}\">",
+      "    <div class=\"results\"></div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Loading Search": {
+    "prefix": "ui-search-loading",
+    "description": "A search can show a loading indicator",
+    "body": [
+      "<div class=\"ui loading search\">",
+      "    <input class=\"prompt\" type=\"text\" placeholder=\"${1:Common text...}\">",
+      "    <div class=\"results\"></div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Disabled Search": {
+    "prefix": "ui-search-disabled",
+    "description": "A search can show it is currently unable to be interacted with",
+    "body": [
+      "<div class=\"ui disabled search\">",
+      "    <input class=\"prompt\" type=\"text\" placeholder=\"${1:Common text...}\">",
+      "    <div class=\"results\"></div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Scrolling Search": {
+    "prefix": "ui-search-scrolling",
+    "description": "A search can have its results scroll.",
+    "body": [
+      "<div class=\"ui scrolling search\">",
+      "    <input class=\"prompt\" type=\"text\" placeholder=\"${1:Common text...}\">",
+      "    <div class=\"results\"></div>",
+      "</div>"
+    ]
+  },
+  "Fomantic-UI Fluid Search": {
+    "prefix": "ui-search-fluid",
+    "description": "A search can have its results take up the width of its container",
+    "body": [
+      "<div class=\"ui fluid search\">",
+      "    <input class=\"prompt\" type=\"text\" placeholder=\"${1:Common text...}\">",
+      "    <div class=\"results\"></div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Segment": {
     "prefix": "ui-segment",
     "description": "A segment of content",

@@ -68,5 +68,12 @@
     "body": [
       "$('${1:.ui.rating}').rating($2);"
     ]
+  },
+  "Fomantic-UI Default Search": {
+    "prefix": "ui-search",
+    "description": "A search can display a set of results",
+    "body": [
+      "$('${1:.ui.search}').search('${2:show}');"
+    ]
   }
 }

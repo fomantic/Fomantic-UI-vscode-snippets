@@ -263,6 +263,13 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-reveal-rotate` | An element can rotate to reveal content below |
 | `ui-reveal-instant` | An element can show its content without delay |
 | `ui-reveal-disabled` | A disabled reveal will not animate when hovered |
+| **Search** | |
+| `ui-search` | A search can display a set of results |
+| `ui-search-category` | A search can display results from remote content ordered by categories |
+| `ui-search-loading` | A search can show a loading indicator |
+| `ui-search-disabled` | A search can show it is currently unable to be interacted with |
+| `ui-search-scrolling` | A search can have its results scroll. |
+| `ui-search-fluid` | A search can have its results take up the width of its container |
 | **Segment** | |
 | `ui-segment` | A segment of content |
 | `ui-segment-placeholder` | A segment of content |
@@ -341,5 +348,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-progress` | A standard progress bar |
 | **Rating** | |
 | `ui-rating` | A basic rating |
+| **Search** | |
+| `ui-search` | A search can display a set of results |
 
 **Enjoy!**
