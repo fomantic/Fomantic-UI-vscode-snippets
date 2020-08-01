@@ -351,6 +351,8 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 |---|---|
 | **Accordion** | |
 | `ui-accordion` | A standard accordion |
+| **Api** | |
+| `ui-api` | API allows elements to trigger actions on a server 
 | **Container** | |
 | `ui-container` | API allows elements to trigger actions on a server |
 | **Calendar** | |
