@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Visibility": {
+        "prefix": "ui-visibility",
+        "description": "Visibility provides a set of callbacks for when a content appears in the viewport",
+        "body": [
+            "$('${1:.ui.segment}').visibility($2);"
+        ]
+    }
+}

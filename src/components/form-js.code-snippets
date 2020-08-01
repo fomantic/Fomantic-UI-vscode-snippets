@@ -1,0 +1,13 @@
+{
+    "Fomantic-UI Default Form Validation": {
+        "prefix": "ui-form",
+        "description": "A form validation behavior checks data against a set of criteria before passing it along to the server",
+        "body": [
+            "$('${1:.ui.form}').form({",
+            "    fields: {",
+            "        $2",
+            "    }",
+            ");"
+        ]
+    }
+}

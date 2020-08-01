@@ -351,6 +351,8 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 |---|---|
 | **Accordion** | |
 | `ui-accordion` | A standard accordion |
+| **Container** | |
+| `ui-container` | API allows elements to trigger actions on a server |
 | **Calendar** | |
 | `ui-calendar` | A standard calendar |
 | **Checkbox** | |
@@ -361,6 +363,8 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-dropdown` | Initializes dropdown with jQuery |
 | **Embed** | |
 | `ui-embed` | Creates a container |
+| **Form** | |
+| `ui-form` | A form validation behavior checks data against a set of criteria before passing it along to the server |
 | **Modal** | |
 | `ui-modal` | A standard modal |
 | **Popup** | |
@@ -385,5 +389,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-toast` |  minimal toast will just display a message. |
 | **Transition** | |
 | `ui-transition` | A transition is an animation usually used to move content in or out of view |
+| **Visibility** | |
+| `ui-visibility` | Visibility provides a set of callbacks for when a content appears in the viewport |
 
 **Enjoy!**
