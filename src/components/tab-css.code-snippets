@@ -1,0 +1,38 @@
+{
+    "Fomantic-UI Default Container": {
+        "prefix": "ui-tabular",
+        "description": "Creates a tabular",
+        "body": [
+            "<div class=\"ui top attached tabular menu\">",
+            "    <div class=\"item\">${1:Tab}</div>",
+            "</div>",
+            "<div class=\"ui bottom attached tab segment\">",
+            "    <p>${2:Some Text!}</p>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Active Container": {
+        "prefix": "ui-tabular-active",
+        "description": "A tab can be activated, and visible on the page",
+        "body": [
+            "<div class=\"ui top attached tabular menu\">",
+            "    <div class=\"item\">${1:Tab}</div>",
+            "</div>",
+            "<div class=\"ui bottom attached active tab segment\">",
+            "    <p>${2:Some Text!}</p>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Loading Container": {
+        "prefix": "ui-tabular-loading",
+        "description": "A tab can display a loading indicator",
+        "body": [
+            "<div class=\"ui top attached loading tabular menu\">",
+            "    <div class=\"item\">${1:Tab}</div>",
+            "</div>",
+            "<div class=\"ui bottom attached tab segment\">",
+            "    <p>${2:Some Text!}</p>",
+            "</div>"
+        ]
+    }
+}

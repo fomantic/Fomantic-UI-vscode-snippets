@@ -103,5 +103,12 @@
     "body": [
       "$('${1:.ui.sticky}').sticky($2);"
     ]
+  },
+  "Fomantic-UI Default Container": {
+    "prefix": "ui-tabular",
+    "description": "Creates a tabular",
+    "body": [
+      "$('${1:.ui.tabular.menu .item}').tab($2);"
+    ]
   }
 }

@@ -325,6 +325,9 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-steps-attached` | Steps can be attached to other elements |
 | **Stiky** | |
 | `ui-stiky` | Sticky content stays fixed to the browser viewport while another column of content is visible on the page. |
+| **Tabular** | |
+| `ui-tabular-active` | A tab can be activated, and visible on the page |
+| `ui-tabular-loading` | A tab can display a loading indicator 
 | **Table** | |
 | `ui-table` | A standard table |
 | `ui-table-definition` | A table may be formatted to emphasize a first column that defines a rows content |
@@ -376,5 +379,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-slider` | Creates a slider |
 | **Stiky** | |
 | `ui-stiky` | Sticky content stays fixed to the browser viewport while another column of content is visible on the page. |
+| **Tabular** | |
+| `ui-tabular` | Creates a tabular |
 
 **Enjoy!**
