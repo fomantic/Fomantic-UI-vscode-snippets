@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Rating": {
+        "prefix": "ui-rating",
+        "description": "A basic rating",
+        "body": [
+            "$('${1:.ui.rating}').rating($2);"
+        ]
+    }
+}

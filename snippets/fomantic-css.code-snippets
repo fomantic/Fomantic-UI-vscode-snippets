@@ -2001,6 +2001,27 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Rating": {
+    "prefix": "ui-rating",
+    "description": "A basic rating",
+    "body": [
+      "<div class=\"ui rating\"></div>"
+    ]
+  },
+  "Fomantic-UI Basic Rating": {
+    "prefix": "ui-rating-basic",
+    "description": "A rating can be started done without JavaScript",
+    "body": [
+      "<div class=\"ui rating\" data-icon=\"${1:star}\" data-rating=\"${2:2}\" data-max-rating=\"${3:5}\"></div>"
+    ]
+  },
+  "Fomantic-UI Disabled Rating": {
+    "prefix": "ui-rating-disabled",
+    "description": "A rating can be started in non-interactive mode by adding a disabled class",
+    "body": [
+      "<div class=\"ui disabled rating\" data-icon=\"${1:star}\" data-rating=\"${2:2}\" data-max-rating=\"${3:5}\"></div>"
+    ]
+  },
   "Fomantic-UI Fade Reveal": {
     "prefix": "ui-reveal-fade",
     "description": "An element can disappear to reveal content below",

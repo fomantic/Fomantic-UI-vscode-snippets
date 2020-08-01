@@ -253,6 +253,10 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-rail-dividing` | A rail can create a division between itself and a container |
 | `ui-rail-dividing` | A rail can appear attached to the main viewport |
 | `ui-rail-close` | A rail can appear closer to the main viewport |
+| **Rating** | |
+| `ui-rating` | A basic rating |
+| `ui-rating-basic` | A rating can be started done without JavaScript |
+| `ui-rating-disabled` | A rating can be started in non-interactive mode by adding a disabled class |
 | **Reveal** | |
 | `ui-reveal-fade` | An element can disappear to reveal content below |
 | `ui-reveal-move` | An element can move in a direction to reveal content |
@@ -335,5 +339,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-popup` | Creates a popup |
 | **Progress** | |
 | `ui-progress` | A standard progress bar |
+| **Rating** | |
+| `ui-rating` | A basic rating |
 
 **Enjoy!**

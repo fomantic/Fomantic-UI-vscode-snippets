@@ -11,7 +11,7 @@
     "repository": {
         "url": "https://github.com/fomantic/Fomantic-UI-vscode-snippets/"
     },
-    "version": "0.40.0",
+    "version": "0.41.0",
     "scripts": {
         "build": "webpack",
         "start": "webpack && node ./index.js"
