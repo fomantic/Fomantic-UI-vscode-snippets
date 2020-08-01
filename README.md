@@ -288,6 +288,10 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-segments` | A group of segments can be formatted to appear together |
 | `ui-segments-horizontal` | A segment group can appear horizontally |
 | `ui-segments-compact` | A segment group can appear horizontally |
+| **Shape** | |
+| `ui-shape` | A shape is a three dimensional object including any flat content as a side. |
+| `ui-shape-cube` | A cube shape is formatted so that each side is the face of a cube |
+| `ui-shape-text` | A text shape is formatted to allow for sides of text to be displayed |
 | **Statistic** | |
 | `ui-statistic` | A statistic can display a value with a label above or below it. |
 | `ui-statistic-horizontal` | A statistic can present its measurement horizontally |
@@ -350,5 +354,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-rating` | A basic rating |
 | **Search** | |
 | `ui-search` | A search can display a set of results |
+| **Shape** | |
+| `ui-shape` | A shape is a three dimensional object including any flat content as a side. |
 
 **Enjoy!**

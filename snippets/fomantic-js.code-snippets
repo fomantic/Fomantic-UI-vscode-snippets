@@ -38,21 +38,21 @@
     "prefix": "ui-embed",
     "description": "Creates a container",
     "body": [
-      "$('${1:.ui.embed}').embed($0);"
+      "$('${1:.ui.embed}').embed($2);"
     ]
   },
   "Fomantic-UI Default Modal": {
     "prefix": "ui-modal",
     "description": "A standard modal",
     "body": [
-      "$('.ui.modal').modal('${0:show}');"
+      "$('${1:.ui.modal}').modal('${2:show}');"
     ]
   },
   "Fomantic-UI Default Popup": {
     "prefix": "ui-popup",
     "description": "Creates a popup",
     "body": [
-      "$('.ui.${1:popup}').popup($0);"
+      "$('${1:.ui.popup}').popup($2);"
     ]
   },
   "Fomantic-UI Default Progress": {

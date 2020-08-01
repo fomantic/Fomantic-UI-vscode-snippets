@@ -1,0 +1,62 @@
+{
+    "Fomantic-UI Default Shape": {
+        "prefix": "ui-shape",
+        "description": "A shape is a three dimensional object including any flat content as a side.",
+        "body": [
+            "<div class=\"ui shape\">",
+            "    <div class=\"sides\">",
+            "        <div class=\"active side\">",
+            "            <div class=\"content\">",
+            "                ${1:Some text!}",
+            "            </div>",
+            "        </div>",
+            "        <div class=\"side\">",
+            "            <div class=\"content\">",
+            "                ${2:Some text!}",
+            "            </div>",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Cube Shape": {
+        "prefix": "ui-shape-cube",
+        "description": "A cube shape is formatted so that each side is the face of a cube",
+        "body": [
+            "<div class=\"ui cube shape\">",
+            "    <div class=\"sides\">",
+            "        <div class=\"active side\">",
+            "            <div class=\"content\">",
+            "                ${1:Some text!}",
+            "            </div>",
+            "        </div>",
+            "        <div class=\"side\">",
+            "            <div class=\"content\">",
+            "                ${2:Some text!}",
+            "            </div>",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Text Shape": {
+        "prefix": "ui-shape-text",
+        "description": "A text shape is formatted to allow for sides of text to be displayed",
+        "body": [
+            "<div class=\"ui text shape\">",
+            "    <div class=\"sides\">",
+            "        <div class=\"active side\">",
+            "            <div class=\"content\">",
+            "                ${1:Some text!}",
+            "            </div>",
+            "        </div>",
+            "        <div class=\"side\">",
+            "            <div class=\"content\">",
+            "                ${2:Some text!}",
+            "            </div>",
+            "        </div>",
+            "    </div>",
+            "</div>"
+        ]
+    }
+}

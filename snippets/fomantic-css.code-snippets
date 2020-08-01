@@ -2301,6 +2301,26 @@
       "</div>"
     ]
   },
+  "Fomantic-UI Default Shape": {
+    "prefix": "ui-shape",
+    "description": "A shape is a three dimensional object including any flat content as a side.",
+    "body": [
+      "<div class=\"ui shape\">",
+      "    <div class=\"sides\">",
+      "        <div class=\"active side\">",
+      "            <div class=\"content\">",
+      "               ${1:Some text!}",
+      "            </div>",
+      "        </div>",
+      "        <div class=\"side\">",
+      "            <div class=\"content\">",
+      "               ${2:Some text!}",
+      "            </div>",
+      "        </div>",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Statistic": {
     "prefix": "ui-statistic",
     "description": "A statistic can display a value with a label above or below it.",

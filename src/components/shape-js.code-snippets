@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Shape": {
+        "prefix": "ui-shape",
+        "description": "A shape is a three dimensional object including any flat content as a side.",
+        "body": [
+            "$('${1:.ui.shape}').shape($2);"
+        ]
+    }
+}
