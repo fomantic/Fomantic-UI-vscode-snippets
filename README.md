@@ -113,10 +113,10 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-dropdown-selection-clearable` | A clearable selection dropdown can allow a user to cancel to cancel a previous selection |
 | `ui-dropdown-selection-loading` | A dropdown can show that it is currently loading data |
 | **Embed** | |
-| `ui-embed` | Creates a container |
+| `ui-embed` | An embed can display any web content |
+| `ui-embed-simple` | An embed can display any web content with no JavaScript |
 | **Emoji** | |
 | `ui-emoji` | You can provide the emoji shortname with or without colons |
-| `ui-emoji` | A flag can use the two digit country code, the full name, or a common alias |
 | **Feed** | |
 | `ui-feed` | A feed |
 | **Flag** | |
@@ -314,7 +314,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | **Text** | |
 | `ui-text` | A text is always used inline and uses one color from the FUI color palette |
 
-### JS 
+### JS
 | **Prefix** | **Description** |
 |---|---|
 | **Accordion** | |
