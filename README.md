@@ -383,5 +383,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-tabular` | Creates a tabular |
 | **Toast** | |
 | `ui-toast` |  minimal toast will just display a message. |
+| **Transition** | |
+| `ui-transition` | A transition is an animation usually used to move content in or out of view |
 
 **Enjoy!**

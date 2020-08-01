@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Transition": {
+        "prefix": "ui-transition",
+        "description": "A transition is an animation usually used to move content in or out of view",
+        "body": [
+            "$('${1:.ui.image}').transition('${2:scale}');"
+        ]
+    }
+}
