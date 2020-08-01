@@ -1,6 +1,6 @@
 {
     "Fomantic-UI Default API": {
-        "prefix": "ui-container",
+        "prefix": "ui-api",
         "description": "API allows elements to trigger actions on a server",
         "body": [
             "$('${1:.ui.button}').api($2);"
