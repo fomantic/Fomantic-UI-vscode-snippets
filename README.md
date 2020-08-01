@@ -292,6 +292,10 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-shape` | A shape is a three dimensional object including any flat content as a side. |
 | `ui-shape-cube` | A cube shape is formatted so that each side is the face of a cube |
 | `ui-shape-text` | A text shape is formatted to allow for sides of text to be displayed |
+| **Sidebar** | |
+| `ui-sidebar` | Creates a sidebar |
+| `ui-sidebar-visible` | A sidebar can be visible on the page |
+| `ui-sidebar-dimmed` | A pusher can be dimmed |
 | **Statistic** | |
 | `ui-statistic` | A statistic can display a value with a label above or below it. |
 | `ui-statistic-horizontal` | A statistic can present its measurement horizontally |
@@ -356,5 +360,7 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-search` | A search can display a set of results |
 | **Shape** | |
 | `ui-shape` | A shape is a three dimensional object including any flat content as a side. |
+| **Sidebar** | |
+| `ui-sidebar` | Creates a sidebar |
 
 **Enjoy!**

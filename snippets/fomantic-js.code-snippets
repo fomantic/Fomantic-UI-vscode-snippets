@@ -75,5 +75,19 @@
     "body": [
       "$('${1:.ui.search}').search('${2:show}');"
     ]
+  },
+  "Fomantic-UI Default Shape": {
+    "prefix": "ui-shape",
+    "description": "A shape is a three dimensional object including any flat content as a side.",
+    "body": [
+      "$('${1:.ui.shape}').shape($2);"
+    ]
+  },
+  "Fomantic-UI Default Sidebar-": {
+    "prefix": "ui-sidebar",
+    "description": "Creates a sidebar",
+    "body": [
+      "$('${1:.ui.sidebar}').sidebar('${2:toggle}');"
+    ]
   }
 }

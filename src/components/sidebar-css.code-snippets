@@ -1,0 +1,44 @@
+{
+    "Fomantic-UI Default Sidebar-": {
+        "prefix": "ui-sidebar",
+        "description": "Creates a sidebar",
+        "body": [
+            "<div class=\"ui sidebar\">",
+            "    <a class=\"item\">",
+            "        ${1:Some text!}",
+            "    </a>",
+            "</div>",
+            "<div class=\"pusher\">",
+            "    ${2:<!-- Site content !-->}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Visible Sidebar-": {
+        "prefix": "ui-sidebar-visible",
+        "description": "A sidebar can be visible on the page",
+        "body": [
+            "<div class=\"ui visible sidebar\">",
+            "    <a class=\"item\">",
+            "        ${1:Some text!}",
+            "    </a>",
+            "</div>",
+            "<div class=\"pusher\">",
+            "    ${2:<!-- Site content !-->}",
+            "</div>"
+        ]
+    },
+    "Fomantic-UI Dimmed Sidebar-": {
+        "prefix": "ui-sidebar-dimmed",
+        "description": "A pusher can be dimmed",
+        "body": [
+            "<div class=\"ui dimmed sidebar\">",
+            "    <a class=\"item\">",
+            "        ${1:Some text!}",
+            "    </a>",
+            "</div>",
+            "<div class=\"pusher\">",
+            "    ${2:<!-- Site content !-->}",
+            "</div>"
+        ]
+    }
+}

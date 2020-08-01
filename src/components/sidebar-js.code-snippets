@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Sidebar-": {
+        "prefix": "ui-sidebar",
+        "description": "Creates a sidebar",
+        "body": [
+            "$('${1:.ui.sidebar}').sidebar('${2:toggle}');"
+        ]
+    }
+}
