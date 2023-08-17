@@ -867,6 +867,24 @@
       "<i class=\"${0:ae} flag\"></i>$0"
     ]
   },
+  "Fomantic-UI Default Flyout CSS": {
+    "prefix": "ui-flyout",
+    "description": "A standard flyout",
+    "body": [
+      "<div class=\"ui flyout\">",
+      "    <i class=\"close icon\"></i>",
+      "    <div class=\"ui header\">",
+      "        <i class=\"${1:question} icon\"></i>",
+      "        <div class=\"content\">",
+      "           ${2:Some header}",
+      "        </div>",
+      "    </div>",
+      "    <div class=\"content\">",
+      "        <p>${3:Some text}</p>",
+      "    </div>",
+      "</div>"
+    ]
+  },
   "Fomantic-UI Default Form": {
     "prefix": "ui-form",
     "description": "A form",

@@ -1,0 +1,9 @@
+{
+    "Fomantic-UI Default Flyout": {
+        "prefix": "ui-flyout",
+        "description": "A standard flyout",
+        "body": [
+            "$('${1:.ui.flyout}').flyout($2);"
+        ]
+    }
+}

@@ -115,6 +115,8 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | **Embed** | |
 | `ui-embed` | An embed can display any web content |
 | `ui-embed-simple` | An embed can display any web content with no JavaScript |
+| **Flyout** | |
+| `ui-flyout` | Flyouts are the result of a marriage between Modal and Sidebar |
 | **Emoji** | |
 | `ui-emoji` | You can provide the emoji shortname with or without colons |
 | **Feed** | |
@@ -365,6 +367,8 @@ Now you can use [VS Code Extension Readme](https://github.com/fomantic/Fomantic-
 | `ui-dropdown` | Initializes dropdown with jQuery |
 | **Embed** | |
 | `ui-embed` | Creates a container |
+| **Flyout** | |
+| `ui-flyout` | Initializes flyout with jQuery |
 | **Form** | |
 | `ui-form` | A form validation behavior checks data against a set of criteria before passing it along to the server |
 | **Modal** | |
